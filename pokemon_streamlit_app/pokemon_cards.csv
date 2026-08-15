@@ -1,0 +1,1001 @@
+set,series,rarity,subtypes,types,hp,artist,market_price_usd,log_market_price,release_year
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Grass,30,sowsow,0.17,0.15700374880966475,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Grass,60,Shigenori Negishi,0.12,0.11332868530700317,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Grass,130,DOM,0.21,0.1906203596086497,2023
+Scarlet & Violet,Scarlet & Violet,Common,Stage 1,Grass,130,Gemi,0.14,0.1310282624064041,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Grass,70,Saya Tsuruta,0.27,0.23901690047049992,2023
+Scarlet & Violet,Scarlet & Violet,Rare,Stage 2,Grass,160,Ryota Murayama,0.29,0.2546422183735807,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Grass,40,Tika Matsuno,0.17,0.15700374880966475,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Grass,60,Kouki Saitou,0.1,0.09531017980432487,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Grass,50,yuu,0.23,0.20701416938432615,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Grass,60,Shibuzoh.,0.21,0.1906203596086497,2023
+Scarlet & Violet,Scarlet & Violet,Double Rare,"Stage 1, ex",Grass,260,takuyoa,0.61,0.4762341789963716,2023
+Scarlet & Violet,Scarlet & Violet,Rare,Stage 2,Grass,150,Kouki Saitou,0.21,0.1906203596086497,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Grass,50,Shin Nagasawa,0.08,0.07696104113612832,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Basic,Grass,120,Taira Akitsu,0.11,0.10436001532424277,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Grass,110,Ryuta Fuse,0.14,0.1310282624064041,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Grass,100,aoki,0.11,0.10436001532424277,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 2,Grass,120,Atsuko Nishida,0.21,0.1906203596086497,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Grass,60,Tika Matsuno,0.09,0.08617769624105233,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Grass,90,Kouki Saitou,0.16,0.14842000511827327,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Grass,120,nagimiso,0.09,0.08617769624105233,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Grass,60,kurumitsu,0.13,0.12221763272424921,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Grass,60,Tika Matsuno,0.12,0.11332868530700317,2023
+Scarlet & Violet,Scarlet & Violet,Common,Stage 1,Grass,70,Kagemaru Himeno,0.14,0.1310282624064041,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Grass,40,Pani Kobayashi,0.17,0.15700374880966475,2023
+Scarlet & Violet,Scarlet & Violet,Common,Stage 1,Grass,90,Mina Nakai,0.16,0.14842000511827327,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Grass,60,Tika Matsuno,0.1,0.09531017980432487,2023
+Scarlet & Violet,Scarlet & Violet,Double Rare,"Stage 1, Tera, ex",Water,300,5ban Graphics,1.79,1.0260415958332743,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Grass,110,KEIICHIRO ITO,0.2,0.18232155679395462,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Water,100,kurumitsu,0.11,0.10436001532424277,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Water,60,Tika Matsuno,0.12,0.11332868530700317,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Fire,100,kantaro,0.11,0.10436001532424277,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Water,90,KIYOTAKA OSHIYAMA,0.22,0.1988508587451652,2023
+Scarlet & Violet,Scarlet & Violet,Rare,Stage 2,Fire,180,nagimiso,0.17,0.15700374880966475,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Water,100,Kouki Saitou,0.09,0.08617769624105233,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Fire,70,nagimiso,0.12,0.11332868530700317,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Water,70,Mizue,0.16,0.14842000511827327,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Water,180,Anesaki Dynamic,0.08,0.07696104113612832,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Water,70,miki kudo,0.08,0.07696104113612832,2023
+Scarlet & Violet,Scarlet & Violet,Common,Stage 1,Water,120,Souichirou Gunjima,0.12,0.11332868530700317,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Water,100,kirisAki,0.08,0.07696104113612832,2023
+Scarlet & Violet,Scarlet & Violet,Rare,Stage 2,Water,170,Kouki Saitou,0.23,0.20701416938432615,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Water,50,Shin Nagasawa,0.17,0.15700374880966475,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Grass,60,Kouki Saitou,0.1,0.09531017980432487,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Fire,70,kawayoo,0.26,0.23111172096338664,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Grass,70,GIDORA,0.2,0.18232155679395462,2023
+Scarlet & Violet,Scarlet & Violet,Double Rare,"Stage 1, Tera, ex",Fire,280,5ban Graphics,1.28,0.8241754429663495,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Basic,Fire,130,Kurata So,0.23,0.20701416938432615,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Fire,80,Akira Komayama,0.22,0.1988508587451652,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Fire,60,Souichirou Gunjima,0.13,0.12221763272424921,2023
+Scarlet & Violet,Scarlet & Violet,Rare,Stage 1,Water,100,Shinji Kanda,0.46,0.3784364357202451,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Water,120,Gemi,0.1,0.09531017980432487,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Water,120,Shinji Kanda,0.15,0.13976194237515868,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Fire,90,Tika Matsuno,0.39,0.3293037471426004,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Fire,70,nagimiso,0.11,0.10436001532424277,2023
+Scarlet & Violet,Scarlet & Violet,Common,Stage 1,Fire,120,hncl,0.21,0.1906203596086497,2023
+Scarlet & Violet,Scarlet & Violet,Rare,Stage 1,Fire,130,AKIRA EGAWA,0.21,0.1906203596086497,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Water,70,Narumi Sato,0.23,0.20701416938432615,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Water,30,KIYOTAKA OSHIYAMA,0.17,0.15700374880966475,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Water,70,Mizue,0.12,0.11332868530700317,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Water,80,Shin Nagasawa,0.17,0.15700374880966475,2023
+Scarlet & Violet,Scarlet & Violet,Rare,Basic,Water,160,Souichirou Gunjima,0.18,0.16551443847757338,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Lightning,60,KIYOTAKA OSHIYAMA,0.05,0.04879016416943201,2023
+Scarlet & Violet,Scarlet & Violet,Common,Stage 1,Lightning,90,Shiburingaru,0.11,0.10436001532424277,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Basic,Water,70,OKACHEKE,0.13,0.12221763272424921,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Lightning,60,Nisota Niso,0.22,0.1988508587451652,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Lightning,60,Narumi Sato,0.23,0.20701416938432615,2023
+Scarlet & Violet,Scarlet & Violet,Rare,Stage 2,Lightning,130,Mizue,0.22,0.1988508587451652,2023
+Scarlet & Violet,Scarlet & Violet,Common,Stage 1,Lightning,90,Saya Tsuruta,0.18,0.16551443847757338,2023
+Scarlet & Violet,Scarlet & Violet,Rare,Basic,Lightning,120,Kouki Saitou,0.19,0.173953307123438,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Lightning,50,Saya Tsuruta,0.18,0.16551443847757338,2023
+Scarlet & Violet,Scarlet & Violet,Double Rare,"Basic, ex",Lightning,220,5ban Graphics,0.64,0.49469624183610705,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Lightning,60,Shin Nagasawa,0.08,0.07696104113612832,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Psychic,110,Toshinao Aoki,0.13,0.12221763272424921,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Lightning,120,Kouki Saitou,0.11,0.10436001532424277,2023
+Scarlet & Violet,Scarlet & Violet,Double Rare,"Stage 2, ex",Psychic,310,N-DESIGN Inc.,0.73,0.5481214085096876,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Psychic,70,zig,0.11,0.10436001532424277,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Psychic,70,OKACHEKE,0.07,0.06765864847381481,2023
+Scarlet & Violet,Scarlet & Violet,Rare,Basic,Psychic,70,GOSSAN,0.33,0.2851789422336624,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Psychic,70,Tika Matsuno,0.07,0.06765864847381481,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Psychic,50,Mizue,0.21,0.1906203596086497,2023
+Scarlet & Violet,Scarlet & Violet,Common,Stage 1,Psychic,90,kawayoo,0.2,0.18232155679395462,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Psychic,60,Saya Tsuruta,0.27,0.23901690047049992,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Psychic,60,Jerky,0.14,0.1310282624064041,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Psychic,40,Tika Matsuno,0.2,0.18232155679395462,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Psychic,70,Taira Akitsu,0.12,0.11332868530700317,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Psychic,110,Yuu Nishida,0.2,0.18232155679395462,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Psychic,40,Mizue,0.13,0.12221763272424921,2023
+Scarlet & Violet,Scarlet & Violet,Double Rare,"Stage 2, ex",Lightning,330,hncl,0.59,0.46373401623214017,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Lightning,90,Kurata So,0.34,0.29266961396282,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Lightning,70,Yuu Nishida,0.18,0.16551443847757338,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Lightning,130,Atsushi Furusawa,0.12,0.11332868530700317,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Lightning,60,kantaro,0.1,0.09531017980432487,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 2,Psychic,140,Haru Akasaka,0.11,0.10436001532424277,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Psychic,30,Hitoshi Ariga,0.21,0.1906203596086497,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Basic,Lightning,70,Naoki Saito,0.14,0.1310282624064041,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Lightning,80,Kouki Saitou,0.2,0.18232155679395462,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Lightning,50,Tika Matsuno,0.14,0.1310282624064041,2023
+Scarlet & Violet,Scarlet & Violet,Double Rare,"Stage 1, ex",Psychic,250,PLANETA Mochizuki,0.69,0.5247285289349821,2023
+Scarlet & Violet,Scarlet & Violet,Common,Stage 1,Psychic,70,saino misaki,0.1,0.09531017980432487,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Psychic,70,Nelnal,0.17,0.15700374880966475,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Psychic,90,You Iribi,0.23,0.20701416938432615,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Psychic,40,Pani Kobayashi,0.11,0.10436001532424277,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Psychic,80,Shin Nagasawa,0.15,0.13976194237515868,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Psychic,70,yuu,0.17,0.15700374880966475,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Psychic,110,Hitoshi Ariga,0.04,0.039220713153281295,2023
+Scarlet & Violet,Scarlet & Violet,Rare,Stage 1,Psychic,140,Kouki Saitou,0.25,0.22314355131420976,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Fighting,60,nagimiso,0.14,0.1310282624064041,2023
+Scarlet & Violet,Scarlet & Violet,Common,Stage 1,Fighting,90,Ryuta Fuse,0.1,0.09531017980432487,2023
+Scarlet & Violet,Scarlet & Violet,Rare,Stage 2,Fighting,140,Anesaki Dynamic,0.19,0.173953307123438,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Fighting,90,Jerky,0.1,0.09531017980432487,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Fighting,60,miki kudo,0.12,0.11332868530700317,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Fighting,70,chibi,0.16,0.14842000511827327,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Fighting,70,Naoyo Kimura,0.21,0.1906203596086497,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Fighting,130,Nurikabe,0.29,0.2546422183735807,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Fighting,70,Tomokazu Komiya,0.22,0.1988508587451652,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 2,Fighting,170,Misa Tsutsui,0.17,0.15700374880966475,2023
+Scarlet & Violet,Scarlet & Violet,Rare,Basic,Fighting,70,GOSSAN,0.3,0.26236426446749106,2023
+Scarlet & Violet,Scarlet & Violet,Common,Stage 1,Fighting,100,kantaro,0.12,0.11332868530700317,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Fighting,80,Kouki Saitou,0.12,0.11332868530700317,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Fighting,140,Yuya Oka,0.1,0.09531017980432487,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Basic,Fighting,130,Yuka Morii,0.17,0.15700374880966475,2023
+Scarlet & Violet,Scarlet & Violet,Double Rare,"Basic, ex",Fighting,250,5ban Graphics,0.52,0.41871033485818504,2023
+Scarlet & Violet,Scarlet & Violet,Rare,Basic,Fighting,130,nagimiso,0.13,0.12221763272424921,2023
+Scarlet & Violet,Scarlet & Violet,Rare,Basic,Fighting,130,Kouki Saitou,0.15,0.13976194237515868,2023
+Scarlet & Violet,Scarlet & Violet,Double Rare,"Basic, ex",Fighting,230,aky CG Works,0.54,0.43178241642553783,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Darkness,80,Kouki Saitou,0.17,0.15700374880966475,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Darkness,140,Haru Akasaka,0.12,0.11332868530700317,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Darkness,120,sui,0.09,0.08617769624105233,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Darkness,70,sowsow,0.15,0.13976194237515868,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Basic,Darkness,70,Naoyo Kimura,0.07,0.06765864847381481,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Darkness,70,Shiburingaru,0.08,0.07696104113612832,2023
+Scarlet & Violet,Scarlet & Violet,Double Rare,"Stage 1, ex",Darkness,250,Nisota Niso,0.67,0.5128236264286637,2023
+Scarlet & Violet,Scarlet & Violet,Common,Stage 1,Darkness,120,Hideki Ishikawa,0.11,0.10436001532424277,2023
+Scarlet & Violet,Scarlet & Violet,Rare,Stage 2,Darkness,170,Anesaki Dynamic,0.22,0.1988508587451652,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Darkness,70,kantaro,0.21,0.1906203596086497,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Darkness,80,KEIICHIRO ITO,0.19,0.173953307123438,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Metal,120,Lee HyunJung,0.23,0.20701416938432615,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Darkness,130,KIYOTAKA OSHIYAMA,0.14,0.1310282624064041,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Basic,Darkness,110,nagimiso,0.06,0.058268908123975775,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Metal,60,Shin Nagasawa,0.05,0.04879016416943201,2023
+Scarlet & Violet,Scarlet & Violet,Rare,Stage 1,Metal,140,Anesaki Dynamic,0.17,0.15700374880966475,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Metal,80,nagimiso,0.12,0.11332868530700317,2023
+Scarlet & Violet,Scarlet & Violet,Double Rare,"Basic, ex",Metal,220,5ban Graphics,0.52,0.41871033485818504,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Colorless,110,sui,0.15,0.13976194237515868,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Colorless,150,chibi,0.18,0.16551443847757338,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Colorless,90,Yuya Oka,0.13,0.12221763272424921,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Colorless,60,Yuka Morii,0.24,0.2151113796169455,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Basic,Colorless,110,aoki,0.18,0.16551443847757338,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Colorless,60,HYOGONOSUKE,0.25,0.22314355131420976,2023
+Scarlet & Violet,Scarlet & Violet,Common,Stage 1,Colorless,80,kantaro,0.14,0.1310282624064041,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 2,Colorless,150,Atsushi Furusawa,0.2,0.18232155679395462,2023
+Scarlet & Violet,Scarlet & Violet,Rare,Basic,Colorless,90,Kagemaru Himeno,0.18,0.16551443847757338,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Colorless,120,kantaro,0.12,0.11332868530700317,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Colorless,60,Teeziro,0.1,0.09531017980432487,2023
+Scarlet & Violet,Scarlet & Violet,Double Rare,"Stage 1, ex",Colorless,260,aky CG Works,0.62,0.4824261492442927,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Colorless,120,kirisAki,0.11,0.10436001532424277,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Colorless,60,kodama,0.13,0.12221763272424921,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Colorless,70,Mina Nakai,0.14,0.1310282624064041,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Colorless,30,Pani Kobayashi,0.41,0.3435897043900769,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Colorless,40,yuu,0.4,0.33647223662121295,2023
+Scarlet & Violet,Scarlet & Violet,Common,Basic,Colorless,70,Oswaldo KATO,0.14,0.1310282624064041,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Stage 1,Colorless,70,KIYOTAKA OSHIYAMA,0.26,0.23111172096338664,2023
+Scarlet & Violet,Scarlet & Violet,Rare,Basic,Colorless,110,Ryota Murayama,0.18,0.16551443847757338,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Basic,Colorless,110,AKIRA EGAWA,0.09,0.08617769624105233,2023
+Scarlet & Violet,Scarlet & Violet,Uncommon,Basic,Colorless,110,kantaro,0.19,0.173953307123438,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Stage 1,Grass,90,Oswaldo KATO,7.32,2.1186622548331173,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Basic,Grass,40,Miki Tanaka,17.25,2.9041650800285006,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Basic,Grass,50,Akira Komayama,5.78,1.9139771019523042,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Stage 1,Fire,130,nagimiso,17.14,2.8981194446869907,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Stage 1,Grass,110,KIYOTAKA OSHIYAMA,5.55,1.8794650496471605,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Basic,Water,50,You Iribi,24.67,3.245322994883049,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Basic,Water,70,Toshinao Aoki,41.19,3.7421832261362473,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Basic,Water,70,Shinya Komatsu,8.18,2.217027204632399,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Stage 2,Lightning,130,Kouki Saitou,10.82,2.469793011977952,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Basic,Lightning,70,zig,20.94,3.0883114548470845,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Basic,Psychic,70,Tomokazu Komiya,61.73,4.138839802108651,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Basic,Water,160,AKIRA EGAWA,14.6,2.747270914255491,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Basic,Psychic,70,sowsow,21.98,3.1346242724206097,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Basic,Fighting,70,Nelnal,38.54,3.6773128177424708,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Basic,Psychic,70,Jiro Sasumo,46.53,3.861361090625918,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Stage 1,Psychic,90,Jiro Sasumo,47.01,3.8714093225428488,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Basic,Psychic,60,Tika Matsuno,28.0,3.367295829986474,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Basic,Fighting,130,Mina Nakai,5.65,1.8946168546677629,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Stage 1,Darkness,130,OKACHEKE,8.3,2.2300144001592104,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Basic,Fighting,70,Nurikabe,6.62,2.030776369698555,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Basic,Darkness,110,Shibuzoh.,5.84,1.922787731634459,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Stage 2,Darkness,170,Shin Nagasawa,10.4,2.4336133554004498,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Basic,Colorless,60,saino misaki,13.98,2.7067159780890733,2023
+Scarlet & Violet,Scarlet & Violet,Illustration Rare,Basic,Colorless,60,Teeziro,9.17,2.3194422100604686,2023
+Scarlet & Violet,Scarlet & Violet,Ultra Rare,"Stage 1, Tera, ex",Fire,280,5ban Graphics,15.23,2.7868613815264998,2023
+Scarlet & Violet,Scarlet & Violet,Ultra Rare,"Stage 2, ex",Lightning,330,PLANETA Tsuji,1.81,1.0331844833456545,2023
+Scarlet & Violet,Scarlet & Violet,Ultra Rare,"Stage 1, Tera, ex",Water,300,5ban Graphics,10.54,2.4458192610799534,2023
+Scarlet & Violet,Scarlet & Violet,Ultra Rare,"Stage 1, ex",Grass,260,takuyoa,1.15,0.7654678421395714,2023
+Scarlet & Violet,Scarlet & Violet,Ultra Rare,"Stage 2, ex",Psychic,310,N-DESIGN Inc.,5.16,1.8180767775454285,2023
+Scarlet & Violet,Scarlet & Violet,Ultra Rare,"Basic, ex",Lightning,220,5ban Graphics,3.23,1.4422019930581866,2023
+Scarlet & Violet,Scarlet & Violet,Ultra Rare,"Stage 1, ex",Psychic,250,PLANETA Mochizuki,1.95,1.0818051703517284,2023
+Scarlet & Violet,Scarlet & Violet,Ultra Rare,"Basic, ex",Fighting,230,aky CG Works,2.09,1.128171090909654,2023
+Scarlet & Violet,Scarlet & Violet,Ultra Rare,"Basic, ex",Fighting,250,5ban Graphics,1.06,0.7227059828014898,2023
+Scarlet & Violet,Scarlet & Violet,Ultra Rare,"Basic, ex",Metal,220,5ban Graphics,1.14,0.76080582903376,2023
+Scarlet & Violet,Scarlet & Violet,Ultra Rare,"Stage 1, ex",Darkness,250,PLANETA Hiiragi,1.8,1.0296194171811583,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Lightning,60,Tika Matsuno,0.14,0.1310282624064041,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Psychic,70,Yuu Nishida,0.27,0.23901690047049992,2023
+Paldea Evolved,Scarlet & Violet,Rare,Stage 1,Psychic,110,Hitoshi Ariga,0.28,0.2468600779315258,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Psychic,70,Megumi Higuchi,0.14,0.1310282624064041,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Psychic,90,Aya Kusube,0.2,0.18232155679395462,2023
+Paldea Evolved,Scarlet & Violet,Double Rare,"Basic, Tera, ex",Psychic,170,aky CG Works,1.14,0.76080582903376,2023
+Paldea Evolved,Scarlet & Violet,Rare,Basic,Psychic,70,Kagemaru Himeno,0.36,0.3074846997479606,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Fighting,110,Shin Nagasawa,0.07,0.06765864847381481,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Basic,Fighting,110,Jerky,0.1,0.09531017980432487,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Fighting,70,Haru Akasaka,0.14,0.1310282624064041,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Fighting,90,Kurata So,0.22,0.1988508587451652,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Lightning,70,sui,0.15,0.13976194237515868,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Lightning,90,Scav,0.05,0.04879016416943201,2023
+Paldea Evolved,Scarlet & Violet,Double Rare,"Stage 1, ex",Lightning,280,PLANETA Yamashita,0.81,0.5933268452777344,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Lightning,120,Pani Kobayashi,0.09,0.08617769624105233,2023
+Paldea Evolved,Scarlet & Violet,Double Rare,"Stage 1, Tera, ex",Psychic,270,5ban Graphics,1.26,0.8153648132841945,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Psychic,70,0313,0.1,0.09531017980432487,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Basic,Psychic,120,Toshinao Aoki,0.05,0.04879016416943201,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Psychic,90,Shin Nagasawa,0.05,0.04879016416943201,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Psychic,60,Shibuzoh.,0.22,0.1988508587451652,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Psychic,70,Pani Kobayashi,0.26,0.23111172096338664,2023
+Paldea Evolved,Scarlet & Violet,Rare,Stage 2,Psychic,140,Kouki Saitou,0.2,0.18232155679395462,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Basic,Fighting,130,Shin Nagasawa,0.21,0.1906203596086497,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Fighting,90,Shigenori Negishi,0.17,0.15700374880966475,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Lightning,40,kurumitsu,0.2,0.18232155679395462,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Lightning,90,Narumi Sato,0.09,0.08617769624105233,2023
+Paldea Evolved,Scarlet & Violet,Rare,Stage 2,Lightning,150,aoki,0.25,0.22314355131420976,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Lightning,80,Yuka Morii,0.28,0.2468600779315258,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Lightning,60,Shibuzoh.,0.18,0.16551443847757338,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Psychic,80,sowsow,0.41,0.3435897043900769,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Psychic,90,Atsushi Furusawa,0.05,0.04879016416943201,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Psychic,150,HYOGONOSUKE,0.23,0.20701416938432615,2023
+Paldea Evolved,Scarlet & Violet,Rare,Stage 1,Psychic,140,Ryota Murayama,0.32,0.2776317365982795,2023
+Paldea Evolved,Scarlet & Violet,Rare,Stage 1,Psychic,70,Oswaldo KATO,0.19,0.173953307123438,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Psychic,60,Mizue,0.23,0.20701416938432615,2023
+Paldea Evolved,Scarlet & Violet,Double Rare,"Stage 1, ex",Fighting,260,kawayoo,1.01,0.6981347220709844,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Fighting,70,0313,0.12,0.11332868530700317,2023
+Paldea Evolved,Scarlet & Violet,Rare,Stage 1,Fighting,140,Hasuno,0.29,0.2546422183735807,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Fighting,70,kawayoo,0.12,0.11332868530700317,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Fighting,130,Yuya Oka,0.17,0.15700374880966475,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Basic,Fighting,110,Jerky,0.21,0.1906203596086497,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Fighting,110,kurumitsu,0.2,0.18232155679395462,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Fighting,60,yuu,0.06,0.058268908123975775,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Fighting,70,Shin Nagasawa,0.08,0.07696104113612832,2023
+Paldea Evolved,Scarlet & Violet,Rare,Stage 2,Fighting,180,Anesaki Dynamic,0.14,0.1310282624064041,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Darkness,60,Saya Tsuruta,0.18,0.16551443847757338,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Darkness,60,Teeziro,0.11,0.10436001532424277,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Darkness,130,Nisota Niso,0.07,0.06765864847381481,2023
+Paldea Evolved,Scarlet & Violet,Rare,Stage 1,Darkness,110,saino misaki,0.22,0.1988508587451652,2023
+Paldea Evolved,Scarlet & Violet,Rare,Basic,Darkness,70,Nagomi Nijo,0.09,0.08617769624105233,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Darkness,100,nagimiso,0.1,0.09531017980432487,2023
+Paldea Evolved,Scarlet & Violet,Rare,Stage 2,Darkness,180,Teeziro,0.22,0.1988508587451652,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Darkness,60,Anesaki Dynamic,0.19,0.173953307123438,2023
+Paldea Evolved,Scarlet & Violet,Double Rare,"Stage 1, ex",Metal,300,Uta,0.71,0.5364933705145685,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Fighting,40,Mizue,0.07,0.06765864847381481,2023
+Paldea Evolved,Scarlet & Violet,Rare,Stage 1,Fighting,130,Shin Nagasawa,0.18,0.16551443847757338,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Basic,Darkness,110,Nisota Niso,0.18,0.16551443847757338,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Darkness,60,DOM,0.21,0.1906203596086497,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Darkness,90,Souichirou Gunjima,0.09,0.08617769624105233,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Basic,Darkness,120,Sekio,0.17,0.15700374880966475,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 2,Metal,170,Scav,0.18,0.16551443847757338,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Metal,100,Oswaldo KATO,0.05,0.04879016416943201,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Colorless,100,kirisAki,0.21,0.1906203596086497,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Fighting,100,GIDORA,0.1,0.09531017980432487,2023
+Paldea Evolved,Scarlet & Violet,Double Rare,"Basic, ex",Fighting,240,5ban Graphics,0.65,0.5007752879124893,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Darkness,60,Kouki Saitou,0.13,0.12221763272424921,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Darkness,70,Kagemaru Himeno,0.1,0.09531017980432487,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Dragon,70,chibi,0.09,0.08617769624105233,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Fighting,70,Sekio,0.04,0.039220713153281295,2023
+Paldea Evolved,Scarlet & Violet,Double Rare,"Stage 1, ex",Darkness,280,PLANETA Mochizuki,0.76,0.5653138090500605,2023
+Paldea Evolved,Scarlet & Violet,Rare,Stage 2,Darkness,180,hncl,0.27,0.23901690047049992,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Darkness,70,Narumi Sato,0.05,0.04879016416943201,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Darkness,70,Shibuzoh.,0.06,0.058268908123975775,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Darkness,140,Souichirou Gunjima,0.07,0.06765864847381481,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Darkness,50,Akira Komayama,0.12,0.11332868530700317,2023
+Paldea Evolved,Scarlet & Violet,Rare,Basic,Metal,130,Hitoshi Ariga,0.21,0.1906203596086497,2023
+Paldea Evolved,Scarlet & Violet,Double Rare,"Stage 1, ex",Dragon,260,Nisota Niso,0.66,0.5068176023684519,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Colorless,140,Mina Nakai,0.16,0.14842000511827327,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Colorless,70,Kouki Saitou,0.11,0.10436001532424277,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Colorless,70,Shigenori Negishi,0.19,0.173953307123438,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Colorless,90,GIDORA,0.06,0.058268908123975775,2023
+Paldea Evolved,Scarlet & Violet,Rare,Stage 2,Colorless,180,Yuya Oka,0.27,0.23901690047049992,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Colorless,60,sui,0.18,0.16551443847757338,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Colorless,70,Nagomi Nijo,0.29,0.2546422183735807,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Colorless,120,Shinya Komatsu,0.22,0.1988508587451652,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Colorless,90,sui,0.09,0.08617769624105233,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Colorless,140,Kouki Saitou,0.12,0.11332868530700317,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Colorless,60,Naoki Saito,0.12,0.11332868530700317,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Colorless,30,Oswaldo KATO,0.3,0.26236426446749106,2023
+Paldea Evolved,Scarlet & Violet,Common,Basic,Colorless,40,Sekio,0.33,0.2851789422336624,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Stage 1,Colorless,60,Saya Tsuruta,0.27,0.23901690047049992,2023
+Paldea Evolved,Scarlet & Violet,Uncommon,Basic,Colorless,110,nagimiso,0.08,0.07696104113612832,2023
+Paldea Evolved,Scarlet & Violet,Double Rare,"Basic, ex",Colorless,160,PLANETA Mochizuki,0.65,0.5007752879124893,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Basic,Grass,110,Jerky,17.22,2.9025198918318122,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Basic,Grass,50,sowsow,11.04,2.488234439880675,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Basic,Grass,130,Kurata So,33.47,3.540089380528774,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Stage 1,Fire,80,Atsushi Furusawa,20.66,3.0754672415728446,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Stage 1,Fire,120,Po-Suzuki,20.54,3.0699116717282426,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Basic,Fire,90,kantaro,58.94,4.0933440618885175,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Stage 1,Fire,110,kantaro,19.48,3.019448800171307,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Basic,Water,30,Shinji Kanda,426.43,6.0577905322794585,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Basic,Grass,60,Kouki Saitou,65.63,4.199154926574446,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Stage 1,Grass,90,Kouki Saitou,23.29,3.190064743014081,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Basic,Water,60,Tomokazu Komiya,26.03,3.2969473602883563,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Stage 1,Lightning,140,Toshinao Aoki,115.79,4.760377450290474,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Stage 1,Water,90,Tomokazu Komiya,19.32,3.011605622710281,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Basic,Psychic,60,Tika Matsuno,32.78,3.519868911379654,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Stage 1,Psychic,90,Tika Matsuno,36.76,3.6312503412773,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Basic,Fighting,70,Ryota Murayama,7.01,2.080690761080268,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Stage 2,Darkness,180,Nurikabe,76.91,4.355554314342767,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Basic,Metal,130,OKACHEKE,6.76,2.048982334195127,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Basic,Colorless,60,GOSSAN,11.89,2.556451816951096,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Basic,Water,110,Nelnal,22.93,3.175132901920282,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Stage 1,Water,90,Souichirou Gunjima,10.75,2.463853240590168,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Stage 1,Psychic,90,aoki,40.89,3.7350471349589434,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Basic,Psychic,90,Teeziro,10.97,2.482403519569882,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Basic,Fighting,110,Narumi Sato,29.66,3.422958873443668,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Stage 1,Darkness,90,Oswaldo KATO,8.72,2.2741856184723477,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Stage 1,Colorless,60,Mizue,99.94,4.614526280912116,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Basic,Water,70,Atsuya Uki,60.88,4.125197025704866,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Basic,Water,60,Souichirou Gunjima,20.36,3.061520014091994,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Stage 2,Water,160,Tomokazu Komiya,37.39,3.6477970090127063,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Stage 1,Psychic,90,SIE NANAHARA,13.41,2.667922410011431,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Stage 1,Psychic,70,nagimiso,6.45,2.0082140323914683,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Basic,Fighting,130,Anesaki Dynamic,18.13,2.9512577834521614,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Basic,Darkness,60,Miki Tanaka,15.38,2.7960610784249234,2023
+Paldea Evolved,Scarlet & Violet,Ultra Rare,"Stage 1, Tera, ex",Grass,270,5ban Graphics,1.29,0.8285518175661483,2023
+Paldea Evolved,Scarlet & Violet,Ultra Rare,"Basic, Tera, ex",Psychic,170,aky CG Works,16.21,2.845490610223448,2023
+Paldea Evolved,Scarlet & Violet,Ultra Rare,"Stage 1, ex",Metal,300,Eske Yoshinob,1.05,0.7178397931503169,2023
+Paldea Evolved,Scarlet & Violet,Ultra Rare,"Basic, ex",Colorless,160,PLANETA Mochizuki,1.58,0.9477893989335261,2023
+Paldea Evolved,Scarlet & Violet,Special Illustration Rare,"Basic, ex",Grass,230,takuyoa,18.1,2.9496883350525844,2023
+Paldea Evolved,Scarlet & Violet,Ultra Rare,"Basic, ex",Grass,230,5ban Graphics,1.51,0.9202827531436926,2023
+Paldea Evolved,Scarlet & Violet,Ultra Rare,"Stage 2, ex",Water,320,5ban Graphics,1.75,1.0116009116784799,2023
+Paldea Evolved,Scarlet & Violet,Ultra Rare,"Stage 1, ex",Lightning,280,PLANETA Yamashita,4.21,1.6505798557652755,2023
+Paldea Evolved,Scarlet & Violet,Ultra Rare,"Stage 1, Tera, ex",Psychic,270,5ban Graphics,7.63,2.1552445050953364,2023
+Paldea Evolved,Scarlet & Violet,Ultra Rare,"Basic, ex",Fighting,240,5ban Graphics,1.4,0.8754687373538999,2023
+Paldea Evolved,Scarlet & Violet,Ultra Rare,"Stage 1, ex",Dragon,260,Eske Yoshinob,2.39,1.220829921392359,2023
+Paldea Evolved,Scarlet & Violet,Special Illustration Rare,"Stage 2, ex",Grass,310,Kouki Saitou,38.9,3.686376323895818,2023
+Paldea Evolved,Scarlet & Violet,Special Illustration Rare,"Stage 2, ex",Water,320,Souichirou Gunjima,15.9,2.827313621929028,2023
+Paldea Evolved,Scarlet & Violet,Special Illustration Rare,"Basic, ex",Water,220,kodama,31.03,3.466672963621067,2023
+Paldea Evolved,Scarlet & Violet,Special Illustration Rare,"Basic, ex",Fighting,240,KEIICHIRO ITO,11.9,2.5572273113676265,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Stage 1,Colorless,140,Mina Nakai,15.43,2.799108932049177,2023
+Paldea Evolved,Scarlet & Violet,Ultra Rare,"Basic, ex",Fire,190,PLANETA Yamashita,3.73,1.5539252025038417,2023
+Paldea Evolved,Scarlet & Violet,Ultra Rare,"Stage 2, ex",Fighting,320,PLANETA Hiiragi,4.96,1.7850704810772584,2023
+Paldea Evolved,Scarlet & Violet,Ultra Rare,"Stage 1, ex",Darkness,280,PLANETA Mochizuki,2.94,1.3711807233098425,2023
+Paldea Evolved,Scarlet & Violet,Special Illustration Rare,"Basic, ex",Colorless,160,Amelicart,11.85,2.553343811341229,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Basic,Colorless,110,Shibuzoh.,10.89,2.4756977107026907,2023
+Paldea Evolved,Scarlet & Violet,Illustration Rare,Stage 1,Colorless,140,Saya Tsuruta,11.58,2.5321082512722946,2023
+Paldea Evolved,Scarlet & Violet,Ultra Rare,"Stage 2, ex",Grass,310,5ban Graphics,3.75,1.55814461804655,2023
+Paldea Evolved,Scarlet & Violet,Ultra Rare,"Stage 2, ex",Fire,340,5ban Graphics,2.81,1.3376291891386096,2023
+Paldea Evolved,Scarlet & Violet,Ultra Rare,"Basic, ex",Water,220,aky CG Works,2.43,1.2325602611778486,2023
+Paldea Evolved,Scarlet & Violet,Ultra Rare,"Stage 2, ex",Psychic,300,takuyoa,10.94,2.479894107964456,2023
+Paldea Evolved,Scarlet & Violet,Ultra Rare,"Stage 1, ex",Fighting,260,Ayaka Yoshida,2.14,1.144222799920162,2023
+Paldea Evolved,Scarlet & Violet,Special Illustration Rare,"Stage 2, ex",Fire,340,kantaro,39.36,3.6978391954854084,2023
+Paldea Evolved,Scarlet & Violet,Special Illustration Rare,"Basic, ex",Fire,190,AKIRA EGAWA,56.42,4.050392674692918,2023
+Paldea Evolved,Scarlet & Violet,Special Illustration Rare,"Stage 2, ex",Psychic,300,Tika Matsuno,54.5,4.0163830207523885,2023
+Paldea Evolved,Scarlet & Violet,Hyper Rare,"Stage 2, ex",Water,320,5ban Graphics,6.17,1.969905654611529,2023
+Paldea Evolved,Scarlet & Violet,Hyper Rare,"Stage 2, ex",Fire,340,5ban Graphics,6.38,1.998773638612381,2023
+Paldea Evolved,Scarlet & Violet,Hyper Rare,"Stage 2, ex",Grass,310,5ban Graphics,9.79,2.378619779270043,2023
+Paldea Evolved,Scarlet & Violet,Hyper Rare,"Basic, ex",Fighting,240,5ban Graphics,3.79,1.5665304114228238,2023
+Paldea Evolved,Scarlet & Violet,Hyper Rare,"Basic, ex",Water,220,aky CG Works,5.98,1.943048916774281,2023
+Scarlet & Violet Black Star Promos,Scarlet & Violet,Promo,Stage 1,Lightning,90,0313,2.34,1.205970806988609,2023
+Scarlet & Violet Black Star Promos,Scarlet & Violet,Promo,"Stage 1, ex",Fighting,260,5ban Graphics,5.98,1.943048916774281,2023
+Scarlet & Violet Black Star Promos,Scarlet & Violet,Promo,"Stage 2, ex",Lightning,330,PLANETA Tsuji,4.83,1.763017000362401,2023
+Scarlet & Violet Black Star Promos,Scarlet & Violet,Promo,"Basic, ex",Colorless,210,5ban Graphics,0.57,0.4510756193602167,2023
+Scarlet & Violet Black Star Promos,Scarlet & Violet,Promo,Stage 1,Colorless,120,Nisota Niso,2.0,1.0986122886681096,2023
+Scarlet & Violet Black Star Promos,Scarlet & Violet,Promo,Stage 2,Water,160,Oswaldo KATO,3.25,1.4469189829363254,2023
+Scarlet & Violet Black Star Promos,Scarlet & Violet,Promo,Stage 2,Psychic,140,Anesaki Dynamic,5.26,1.8341801851120072,2023
+Scarlet & Violet Black Star Promos,Scarlet & Violet,Promo,Basic,Darkness,60,Shiburingaru,2.67,1.3001916620664788,2023
+Scarlet & Violet Black Star Promos,Scarlet & Violet,Promo,Basic,Grass,60,Misa Tsutsui,0.37,0.31481073984003355,2023
+Scarlet & Violet Black Star Promos,Scarlet & Violet,Promo,Basic,Psychic,70,Kouki Saitou,0.38,0.32208349916911333,2023
+Scarlet & Violet Black Star Promos,Scarlet & Violet,Promo,Basic,Lightning,60,Atsushi Furusawa,21.89,3.130700133964475,2023
+Scarlet & Violet Black Star Promos,Scarlet & Violet,Promo,"Basic, ex",Fighting,230,aky CG Works,0.6,0.4700036292457356,2023
+Scarlet & Violet Black Star Promos,Scarlet & Violet,Promo,Basic,Fire,90,Uta,0.79,0.5822156198526637,2023
+Scarlet & Violet Black Star Promos,Scarlet & Violet,Promo,Basic,Metal,60,Mina Nakai,0.42,0.35065687161316933,2023
+Scarlet & Violet Black Star Promos,Scarlet & Violet,Promo,"Basic, ex",Lightning,220,5ban Graphics,0.77,0.5709795465857378,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Grass,60,Saya Tsuruta,0.17,0.15700374880966475,2023
+Obsidian Flames,Scarlet & Violet,Common,Stage 1,Grass,80,Haru Akasaka,0.27,0.23901690047049992,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Grass,50,Midori Harada,0.2,0.18232155679395462,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Grass,60,Narumi Sato,0.2,0.18232155679395462,2023
+Obsidian Flames,Scarlet & Violet,Common,Stage 1,Grass,90,nagimiso,0.2,0.18232155679395462,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Fire,90,Ryota Murayama,0.38,0.32208349916911333,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Fire,140,Shiburingaru,0.24,0.2151113796169455,2023
+Obsidian Flames,Scarlet & Violet,Double Rare,"Basic, ex",Fire,190,Saki Hayashiro,1.02,0.7030975114131134,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Fire,140,Yuya Oka,0.23,0.20701416938432615,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Grass,80,Shin Nagasawa,0.2,0.18232155679395462,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Grass,50,You Iribi,0.22,0.1988508587451652,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Grass,70,Pani Kobayashi,0.27,0.23901690047049992,2023
+Obsidian Flames,Scarlet & Violet,Rare,Stage 1,Grass,110,kodama,0.17,0.15700374880966475,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Fire,90,Mizue,0.22,0.1988508587451652,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Fire,80,Miki Tanaka,0.18,0.16551443847757338,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Grass,50,HYOGONOSUKE,0.22,0.1988508587451652,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 2,Grass,130,sui,0.34,0.29266961396282,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Grass,80,Kurata So,0.29,0.2546422183735807,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Grass,100,Haru Akasaka,0.23,0.20701416938432615,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Grass,110,Nobuhiro Imagawa,0.19,0.173953307123438,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Grass,140,Anesaki Dynamic,0.17,0.15700374880966475,2023
+Obsidian Flames,Scarlet & Violet,Double Rare,"Stage 2, ex",Grass,320,PLANETA Mochizuki,0.9,0.6418538861723948,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Grass,60,Kurata So,0.23,0.20701416938432615,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 2,Grass,160,Atsushi Furusawa,0.26,0.23111172096338664,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Grass,50,Masako Tomii,0.11,0.10436001532424277,2023
+Obsidian Flames,Scarlet & Violet,Common,Stage 1,Grass,80,Mizue,0.23,0.20701416938432615,2023
+Obsidian Flames,Scarlet & Violet,Double Rare,"Stage 1, ex",Grass,270,5ban Graphics,0.69,0.5247285289349821,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Fire,60,0313,0.27,0.23901690047049992,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Grass,70,Tomokazu Komiya,0.28,0.2468600779315258,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Grass,90,sui,0.16,0.14842000511827327,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 2,Grass,140,KEIICHIRO ITO,0.17,0.15700374880966475,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Grass,50,Shin Nagasawa,0.1,0.09531017980432487,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Fire,60,DOM,0.37,0.31481073984003355,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Fire,120,Yoshioka,0.49,0.3987761199573678,2023
+Obsidian Flames,Scarlet & Violet,Rare,Basic,Fire,130,toriyufu,0.28,0.2468600779315258,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Fire,60,Nagomi Nijo,0.14,0.1310282624064041,2023
+Obsidian Flames,Scarlet & Violet,Double Rare,"Basic, ex, Tera",Fire,210,5ban Graphics,0.84,0.6097655716208943,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Basic,Water,110,matazo,0.16,0.14842000511827327,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Water,70,Jerky,0.09,0.08617769624105233,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Water,150,Misa Tsutsui,0.22,0.1988508587451652,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Water,60,Pani Kobayashi,0.19,0.173953307123438,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Water,50,kodama,0.16,0.14842000511827327,2023
+Obsidian Flames,Scarlet & Violet,Rare,Stage 1,Water,150,Souichirou Gunjima,0.1,0.09531017980432487,2023
+Obsidian Flames,Scarlet & Violet,Common,Stage 1,Lightning,90,kurumitsu,0.21,0.1906203596086497,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 2,Lightning,170,Anesaki Dynamic,0.13,0.12221763272424921,2023
+Obsidian Flames,Scarlet & Violet,Rare,Basic,Lightning,110,GOSSAN,0.27,0.23901690047049992,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Lightning,70,AKIRA EGAWA,0.14,0.1310282624064041,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Lightning,50,kirisAki,0.16,0.14842000511827327,2023
+Obsidian Flames,Scarlet & Violet,Double Rare,"Stage 1, ex",Psychic,260,Satoshi Shirai,0.97,0.6780335427498971,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Psychic,110,Cona Nitanda,0.31,0.27002713721306015,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Psychic,130,Lee HyunJung,0.25,0.22314355131420976,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Psychic,70,Scav,0.17,0.15700374880966475,2023
+Obsidian Flames,Scarlet & Violet,Rare,Stage 1,Psychic,120,Shigenori Negishi,0.22,0.1988508587451652,2023
+Obsidian Flames,Scarlet & Violet,Double Rare,"Stage 1, ex, Tera",Psychic,270,5ban Graphics,0.83,0.6043159668533296,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Psychic,30,Yuka Morii,0.33,0.2851789422336624,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Fighting,50,OKACHEKE,0.22,0.1988508587451652,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Fighting,70,Scav,0.08,0.07696104113612832,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Fighting,140,0313,0.23,0.20701416938432615,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Fighting,90,Nagomi Nijo,0.18,0.16551443847757338,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Fighting,160,Misa Tsutsui,0.23,0.20701416938432615,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Fighting,60,Jerky,0.23,0.20701416938432615,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Fighting,130,Mitsuhiro Arita,0.13,0.12221763272424921,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Fighting,60,Sanosuke Sakuma,0.19,0.173953307123438,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Darkness,70,Pani Kobayashi,0.15,0.13976194237515868,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Darkness,140,Shin Nagasawa,0.38,0.32208349916911333,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Fire,110,otumami,0.12,0.11332868530700317,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Water,110,Kouki Saitou,0.21,0.1906203596086497,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Water,70,OKUBO,0.22,0.1988508587451652,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Water,70,Mizue,0.19,0.173953307123438,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Water,90,kirisAki,0.18,0.16551443847757338,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Lightning,60,Masakazu Fukuda,0.17,0.15700374880966475,2023
+Obsidian Flames,Scarlet & Violet,Double Rare,"Stage 2, ex, Tera",Lightning,340,5ban Graphics,1.17,0.7747271675523681,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Lightning,40,Kagemaru Himeno,0.14,0.1310282624064041,2023
+Obsidian Flames,Scarlet & Violet,Common,Stage 1,Lightning,90,Souichirou Gunjima,0.13,0.12221763272424921,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 2,Lightning,160,Masakazu Fukuda,0.16,0.14842000511827327,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Lightning,60,Shin Nagasawa,0.14,0.1310282624064041,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Psychic,30,kurumitsu,0.44,0.36464311358790924,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Psychic,60,Yuka Morii,0.45,0.37156355643248307,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Psychic,50,Natsumi Yoshida,0.32,0.2776317365982795,2023
+Obsidian Flames,Scarlet & Violet,Rare,Stage 2,Psychic,150,Cona Nitanda,0.28,0.2468600779315258,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Psychic,80,Sekio,0.25,0.22314355131420976,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Basic,Psychic,90,Tetsu Kayama,0.24,0.2151113796169455,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Psychic,80,Pani Kobayashi,0.13,0.12221763272424921,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Fighting,70,KYUPIYAMA,0.2,0.18232155679395462,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Fighting,80,Souichirou Gunjima,0.23,0.20701416938432615,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Fighting,130,Kouki Saitou,0.06,0.058268908123975775,2023
+Obsidian Flames,Scarlet & Violet,Double Rare,"Basic, ex",Fighting,230,aky CG Works,0.65,0.5007752879124893,2023
+Obsidian Flames,Scarlet & Violet,Common,Stage 1,Fire,80,Aya Kusube,0.16,0.14842000511827327,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Fire,140,Yukiko Baba,0.1,0.09531017980432487,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Fire,120,Souichirou Gunjima,0.17,0.15700374880966475,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Water,120,Tonji Matsuno,0.17,0.15700374880966475,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 2,Water,170,Misa Tsutsui,0.18,0.16551443847757338,2023
+Obsidian Flames,Scarlet & Violet,Rare,Stage 1,Lightning,140,Anesaki Dynamic,0.25,0.22314355131420976,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Lightning,130,Kouki Saitou,0.32,0.2776317365982795,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Psychic,100,0313,0.23,0.20701416938432615,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Psychic,70,GOSSAN,0.11,0.10436001532424277,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Psychic,70,Shibuzoh.,0.25,0.22314355131420976,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Fighting,90,Nobuhiro Imagawa,0.18,0.16551443847757338,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Fighting,30,Mizue,0.17,0.15700374880966475,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Fighting,70,sowsow,0.24,0.2151113796169455,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Basic,Fighting,120,Sumiyoshi Kizuki,0.12,0.11332868530700317,2023
+Obsidian Flames,Scarlet & Violet,Double Rare,"Basic, ex",Fighting,220,aky CG Works,0.8,0.5877866649021191,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Darkness,140,Kouki Saitou,0.22,0.1988508587451652,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 2,Fire,150,Haru Akasaka,0.32,0.2776317365982795,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Fire,80,Yuka Morii,0.22,0.1988508587451652,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Fire,70,Saya Tsuruta,0.1,0.09531017980432487,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Water,50,Jerky,0.12,0.11332868530700317,2023
+Obsidian Flames,Scarlet & Violet,Common,Stage 1,Water,100,sowsow,0.12,0.11332868530700317,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Water,70,Atsuya Uki,0.17,0.15700374880966475,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Water,90,Tonji Matsuno,0.15,0.13976194237515868,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Water,90,Akira Komayama,0.23,0.20701416938432615,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Water,90,Kouki Saitou,0.3,0.26236426446749106,2023
+Obsidian Flames,Scarlet & Violet,Double Rare,"Stage 2, ex",Lightning,300,aky CG Works,0.7,0.5306282510621704,2023
+Obsidian Flames,Scarlet & Violet,Common,Basic,Lightning,60,Saya Tsuruta,0.13,0.12221763272424921,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Lightning,140,Toshinao Aoki,0.24,0.2151113796169455,2023
+Obsidian Flames,Scarlet & Violet,Double Rare,"Basic, ex",Lightning,220,5ban Graphics,0.98,0.6830968447064438,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Psychic,90,Kyoko Umemoto,0.17,0.15700374880966475,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Psychic,120,Scav,0.15,0.13976194237515868,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Basic,Psychic,90,Tetsu Kayama,0.25,0.22314355131420976,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Psychic,70,Megumi Mizutani,0.15,0.13976194237515868,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Psychic,140,Saya Tsuruta,0.13,0.12221763272424921,2023
+Obsidian Flames,Scarlet & Violet,Double Rare,"Stage 1, ex",Psychic,260,5ban Graphics,0.9,0.6418538861723948,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Fighting,90,Nelnal,0.18,0.16551443847757338,2023
+Obsidian Flames,Scarlet & Violet,Uncommon,Stage 1,Fighting,140,SATOSHI NAKAI,0.21,0.1906203596086497,2023
+Sword & Shield,Sword & Shield,Uncommon,Stage 1,Grass,80,Kagemaru Himeno,0.1,0.09531017980432487,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Psychic,70,kirisAki,11.7,2.5416019934645457,2019
+Vivid Voltage,Sword & Shield,Uncommon,Stage 1,Grass,130,Mina Nakai,0.16,0.14842000511827327,2020
+Rebel Clash,Sword & Shield,Common,Basic,Grass,60,Tomokazu Komiya,0.07,0.06765864847381481,2020
+Darkness Ablaze,Sword & Shield,Uncommon,Stage 1,Grass,80,sui,0.27,0.23901690047049992,2020
+Champion's Path,Sword & Shield,Rare Holo VMAX,VMAX,Psychic,310,5ban Graphics,6.61,2.0294631718735947,2020
+Champion's Path,Sword & Shield,Common,Basic,Fighting,70,Shibuzoh.,0.21,0.1906203596086497,2020
+Vivid Voltage,Sword & Shield,Uncommon,Basic,Grass,130,Masakazu Fukuda,0.12,0.11332868530700317,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 2,Grass,150,so-taro,0.2,0.18232155679395462,2020
+Rebel Clash,Sword & Shield,Rare Holo V,"Basic, V",Grass,220,5ban Graphics,0.94,0.6626879730752367,2020
+Sword & Shield,Sword & Shield,Common,Basic,Fire,70,Taira Akitsu,0.44,0.36464311358790924,2020
+Sword & Shield,Sword & Shield,Rare,Stage 1,Fire,120,Megumi Higuchi,1.53,0.9282193027394289,2020
+SWSH Black Star Promos,Sword & Shield,Promo,"Basic, V",Grass,220,5ban Graphics,0.85,0.6151856390902335,2019
+Champion's Path,Sword & Shield,Uncommon,Stage 1,Fighting,110,AKIRA EGAWA,0.14,0.1310282624064041,2020
+Rebel Clash,Sword & Shield,Rare Holo VMAX,VMAX,Grass,330,5ban Graphics,2.35,1.208960345836975,2020
+Vivid Voltage,Sword & Shield,Rare Holo V,"Basic, V",Grass,180,5ban Graphics,0.56,0.44468582126144574,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Grass,70,MAHOU,0.07,0.06765864847381481,2020
+SWSH Black Star Promos,Sword & Shield,Promo,"Basic, V",Fire,210,5ban Graphics,0.88,0.6312717768418579,2019
+Rebel Clash,Sword & Shield,Rare Holo V,"Basic, V",Grass,180,5ban Graphics,0.93,0.6575200029167942,2020
+Darkness Ablaze,Sword & Shield,Rare Holo,Stage 1,Grass,130,Ryuta Fuse,0.4,0.33647223662121295,2020
+Sword & Shield,Sword & Shield,Rare Holo V,"Basic, V",Fire,210,Ayaka Yoshida,0.98,0.6830968447064438,2020
+Darkness Ablaze,Sword & Shield,Rare Holo V,"Basic, V",Fire,220,aky CG Works,8.5,2.2512917986064953,2020
+Vivid Voltage,Sword & Shield,Rare Holo VMAX,VMAX,Grass,310,5ban Graphics,1.61,0.9593502213346021,2020
+Rebel Clash,Sword & Shield,Common,Basic,Grass,40,Mizue,0.18,0.16551443847757338,2020
+SWSH Black Star Promos,Sword & Shield,Promo,"Basic, V",Water,200,5ban Graphics,0.99,0.688134638736401,2019
+Champion's Path,Sword & Shield,Rare Holo,Stage 2,Fighting,170,Anesaki Dynamic,0.44,0.36464311358790924,2020
+Sword & Shield,Sword & Shield,Rare Holo V,"Basic, V",Fire,190,PLANETA Tsuji,1.27,0.8197798314933114,2020
+Sword & Shield,Sword & Shield,Uncommon,Basic,Fire,110,kawayoo,0.02,0.019802627296179712,2020
+Darkness Ablaze,Sword & Shield,Rare Holo VMAX,VMAX,Fire,330,aky CG Works,51.86,3.967646909176143,2020
+Vivid Voltage,Sword & Shield,Rare Holo V,"Basic, V",Grass,210,PLANETA Igarashi,0.45,0.37156355643248307,2020
+Champion's Path,Sword & Shield,Rare Holo V,"Basic, V",Fighting,210,AKIRA EGAWA,3.87,1.5830939370944985,2020
+SWSH Black Star Promos,Sword & Shield,Promo,"Basic, V",Lightning,210,5ban Graphics,1.24,0.8064758658669485,2019
+Darkness Ablaze,Sword & Shield,Rare Holo V,"Basic, V",Fire,210,Ayaka Yoshida,2.07,1.1216775615991057,2020
+SWSH Black Star Promos,Sword & Shield,Promo,"Basic, V",Metal,220,5ban Graphics,1.06,0.7227059828014898,2019
+Sword & Shield,Sword & Shield,Common,Basic,Fire,70,SATOSHI NAKAI,0.06,0.058268908123975775,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Fire,70,MAHOU,0.3,0.26236426446749106,2020
+Sword & Shield,Sword & Shield,Uncommon,Stage 1,Fire,120,Tomokazu Komiya,0.61,0.4762341789963716,2020
+SWSH Black Star Promos,Sword & Shield,Promo,"Basic, V",Metal,230,aky CG Works,0.98,0.6830968447064438,2019
+Vivid Voltage,Sword & Shield,Uncommon,Stage 1,Fire,90,SATOSHI NAKAI,0.31,0.27002713721306015,2020
+Champion's Path,Sword & Shield,Rare Holo,Basic,Fighting,140,Shin Nagasawa,0.27,0.23901690047049992,2020
+Rebel Clash,Sword & Shield,Common,Basic,Grass,40,Kagemaru Himeno,0.42,0.35065687161316933,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Fire,60,Yuka Morii,0.24,0.2151113796169455,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 2,Fire,170,Ryuta Fuse,4.05,1.6193882432872684,2020
+Darkness Ablaze,Sword & Shield,Uncommon,Stage 1,Fire,90,kodama,0.32,0.2776317365982795,2020
+Sword & Shield,Sword & Shield,Rare,Basic,Fire,130,KEIICHIRO ITO,0.11,0.10436001532424277,2020
+Rebel Clash,Sword & Shield,Rare Holo,Stage 1,Grass,80,Shin Nagasawa,0.63,0.48858001481867097,2020
+Champion's Path,Sword & Shield,Common,Basic,Fighting,70,Naoyo Kimura,0.22,0.1988508587451652,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Lightning,70,Hideki Ishikawa,106.87,4.680926798387338,2019
+Champion's Path,Sword & Shield,Rare Holo,Stage 1,Fighting,120,Ryuta Fuse,0.23,0.20701416938432615,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 1,Fire,110,Eri Yamaki,0.46,0.3784364357202451,2020
+Darkness Ablaze,Sword & Shield,Rare Holo,Stage 2,Fire,170,Ryuta Fuse,0.59,0.46373401623214017,2020
+Rebel Clash,Sword & Shield,Rare Holo,Stage 1,Grass,90,Akira Komayama,0.68,0.5187937934151676,2020
+Sword & Shield,Sword & Shield,Common,Basic,Fire,60,kirisAki,0.17,0.15700374880966475,2020
+SWSH Black Star Promos,Sword & Shield,Promo,"Basic, V",Psychic,170,PLANETA Igarashi,2.08,1.1249295969854831,2019
+Rebel Clash,Sword & Shield,Common,Basic,Fire,60,sui,0.72,0.5423242908253616,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Fire,70,Mina Nakai,0.03,0.0295588022415444,2020
+Champion's Path,Sword & Shield,Common,Basic,Fighting,70,Masakazu Fukuda,0.23,0.20701416938432615,2020
+Darkness Ablaze,Sword & Shield,Rare Holo,Basic,Fire,130,Anesaki Dynamic,0.32,0.2776317365982795,2020
+Champion's Path,Sword & Shield,Rare Holo V,"Basic, V",Fighting,210,PLANETA Igarashi,0.83,0.6043159668533296,2020
+Sword & Shield,Sword & Shield,Common,Basic,Fire,70,Kagemaru Himeno,0.29,0.2546422183735807,2020
+Vivid Voltage,Sword & Shield,Uncommon,Stage 1,Fire,130,Masakazu Fukuda,0.02,0.019802627296179712,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 1,Grass,80,Hitoshi Ariga,63.31,4.163715140146772,2019
+Rebel Clash,Sword & Shield,Rare,Stage 1,Fire,120,AKIRA EGAWA,4.71,1.7422190236679187,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Fire,60,Megumi Higuchi,0.21,0.1906203596086497,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 2,Lightning,160,Megumi Higuchi,81.43,4.411949448325136,2019
+Champion's Path,Sword & Shield,Common,Basic,Darkness,70,Uta,0.21,0.1906203596086497,2020
+Darkness Ablaze,Sword & Shield,Uncommon,Stage 1,Fire,100,0313,0.06,0.058268908123975775,2020
+Sword & Shield,Sword & Shield,Uncommon,Stage 1,Fire,90,Mizue,0.7,0.5306282510621704,2020
+Vivid Voltage,Sword & Shield,Rare Holo V,"Basic, V",Fire,190,Ryota Murayama,0.81,0.5933268452777344,2020
+Rebel Clash,Sword & Shield,Rare Holo V,"Basic, V",Fire,200,Saki Hayashiro,5.4,1.8562979903656263,2020
+Champion's Path,Sword & Shield,Uncommon,Stage 1,Darkness,120,nagimiso,0.13,0.12221763272424921,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 1,Water,110,kodama,0.94,0.6626879730752367,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 2,Fighting,160,Kouki Saitou,32.72,3.518091133133655,2019
+Rebel Clash,Sword & Shield,Common,Basic,Fire,80,Ryota Murayama,0.52,0.41871033485818504,2020
+Sword & Shield,Sword & Shield,Uncommon,Stage 1,Fire,90,Akira Komayama,0.1,0.09531017980432487,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 1,Fire,140,Misa Tsutsui,0.56,0.44468582126144574,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Water,100,Yukiko Baba,0.13,0.12221763272424921,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 1,Darkness,120,tetsuya koizumi,55.82,4.039888376426042,2019
+Rebel Clash,Sword & Shield,Rare,Stage 1,Fire,130,Hasuno,0.64,0.49469624183610705,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Fire,70,Uta,0.05,0.04879016416943201,2020
+Champion's Path,Sword & Shield,Common,Basic,Darkness,70,Kouki Saitou,0.15,0.13976194237515868,2020
+Sword & Shield,Sword & Shield,Rare Holo,Stage 2,Fire,170,Kouki Saitou,0.36,0.3074846997479606,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 1,Fire,120,NC Empire,0.39,0.3293037471426004,2020
+Champion's Path,Sword & Shield,Common,Stage 1,Darkness,100,Akira Komayama,0.17,0.15700374880966475,2020
+Vivid Voltage,Sword & Shield,Rare Holo,Stage 1,Water,200,SATOSHI NAKAI,0.57,0.4510756193602167,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Water,110,0313,1.98,1.091923300517313,2019
+Rebel Clash,Sword & Shield,Common,Basic,Fire,90,Shigenori Negishi,0.09,0.08617769624105233,2020
+Sword & Shield,Sword & Shield,Rare Holo,Stage 2,Fire,170,Naoki Saito,0.52,0.41871033485818504,2020
+Darkness Ablaze,Sword & Shield,Uncommon,Stage 1,Fire,70,Mina Nakai,0.25,0.22314355131420976,2020
+Rebel Clash,Sword & Shield,Rare,Stage 1,Fire,140,Kazuma Koda,0.29,0.2546422183735807,2020
+Champion's Path,Sword & Shield,Rare Holo,Stage 2,Darkness,170,Shin Nagasawa,0.11,0.10436001532424277,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 1,Colorless,110,Misa Tsutsui,2.64,1.2919836816486494,2019
+Sword & Shield,Sword & Shield,Rare,Stage 2,Fire,170,Shin Nagasawa,0.36,0.3074846997479606,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Water,70,nagimiso,0.17,0.15700374880966475,2020
+Vivid Voltage,Sword & Shield,Uncommon,Stage 1,Water,90,Megumi Higuchi,0.2,0.18232155679395462,2020
+Champion's Path,Sword & Shield,Uncommon,Basic,Darkness,100,kodama,0.33,0.2851789422336624,2020
+Sword & Shield,Sword & Shield,Common,Basic,Fire,70,Akira Komayama,0.09,0.08617769624105233,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Metal,130,Ryuta Fuse,0.64,0.49469624183610705,2019
+Rebel Clash,Sword & Shield,Common,Basic,Fire,60,Sekio,0.06,0.058268908123975775,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 2,Fire,140,kawayoo,0.37,0.31481073984003355,2020
+Sword & Shield,Sword & Shield,Common,Basic,Fire,70,Kouki Saitou,0.23,0.20701416938432615,2020
+Champion's Path,Sword & Shield,Common,Basic,Darkness,70,sowsow,0.29,0.2546422183735807,2020
+Darkness Ablaze,Sword & Shield,Rare Holo V,"Basic, V",Fire,210,5ban Graphics,0.84,0.6097655716208943,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Colorless,130,so-taro,8.55,2.256541154492639,2019
+SWSH Black Star Promos,Sword & Shield,Promo,"Basic, V",Metal,220,5ban Graphics,0.95,0.6678293725756554,2019
+Darkness Ablaze,Sword & Shield,Rare Holo VMAX,VMAX,Fire,320,5ban Graphics,1.64,0.9707789171582247,2020
+Champion's Path,Sword & Shield,Uncommon,Stage 1,Darkness,100,Hasuno,0.12,0.11332868530700317,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 2,Water,160,Shin Nagasawa,0.27,0.23901690047049992,2020
+Rebel Clash,Sword & Shield,Uncommon,Stage 1,Fire,80,Kyoko Umemoto,0.31,0.27002713721306015,2020
+Sword & Shield,Sword & Shield,Rare,Stage 1,Fire,130,Anesaki Dynamic,0.44,0.36464311358790924,2020
+Champion's Path,Sword & Shield,Common,Basic,Darkness,70,miki kudo,0.2,0.18232155679395462,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Water,80,Misa Tsutsui,0.27,0.23901690047049992,2020
+Sword & Shield,Sword & Shield,Common,Basic,Water,70,Sekio,0.1,0.09531017980432487,2020
+Vivid Voltage,Sword & Shield,Rare Holo V,"Basic, V",Water,220,5ban Graphics,0.57,0.4510756193602167,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Lightning,80,Hitoshi Ariga,0.52,0.41871033485818504,2019
+Rebel Clash,Sword & Shield,Rare Holo,Stage 2,Fire,140,Taira Akitsu,0.42,0.35065687161316933,2020
+Rebel Clash,Sword & Shield,Uncommon,Basic,Fire,120,Satoshi Shirai,0.21,0.1906203596086497,2020
+Sword & Shield,Sword & Shield,Rare,Stage 1,Water,130,MAHOU,0.21,0.1906203596086497,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Colorless,150,Tika Matsuno,31.89,3.4931686602009657,2019
+Vivid Voltage,Sword & Shield,Rare Holo VMAX,VMAX,Water,320,5ban Graphics,1.21,0.7929925155296614,2020
+Champion's Path,Sword & Shield,Rare Holo,Stage 1,Darkness,120,tetsuya koizumi,0.12,0.11332868530700317,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Metal,130,Kouki Saitou,3.59,1.5238800240724537,2019
+Champion's Path,Sword & Shield,Common,Basic,Darkness,60,nagimiso,0.18,0.16551443847757338,2020
+Rebel Clash,Sword & Shield,Rare Holo V,"Basic, V",Fire,210,5ban Graphics,0.96,0.6729444732424258,2020
+Sword & Shield,Sword & Shield,Common,Basic,Water,80,ryoma uratsuka,0.21,0.1906203596086497,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 1,Water,120,Naoki Saito,0.31,0.27002713721306015,2020
+Rebel Clash,Sword & Shield,Rare Holo VMAX,VMAX,Fire,320,5ban Graphics,3.0,1.3862943611198906,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Metal,130,Kouki Saitou,3.91,1.5912739418064292,2019
+Vivid Voltage,Sword & Shield,Common,Basic,Water,80,kirisAki,0.12,0.11332868530700317,2020
+Darkness Ablaze,Sword & Shield,Rare Holo,Basic,Water,120,so-taro,0.95,0.6678293725756554,2020
+Sword & Shield,Sword & Shield,Common,Basic,Water,80,miki kudo,0.33,0.2851789422336624,2020
+Champion's Path,Sword & Shield,Common,Basic,Darkness,60,sui,0.14,0.1310282624064041,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Water,30,HYOGONOSUKE,0.31,0.27002713721306015,2020
+Champion's Path,Sword & Shield,Uncommon,Stage 1,Darkness,120,kawayoo,0.16,0.14842000511827327,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 2,Grass,140,Souichirou Gunjima,6.47,2.010894999144726,2019
+Sword & Shield,Sword & Shield,Uncommon,Stage 1,Water,130,tetsuya koizumi,0.44,0.36464311358790924,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 1,Water,140,Taira Akitsu,0.07,0.06765864847381481,2020
+Rebel Clash,Sword & Shield,Common,Basic,Water,80,kirisAki,0.09,0.08617769624105233,2020
+Darkness Ablaze,Sword & Shield,Rare Holo,Stage 1,Water,120,AKIRA EGAWA,0.73,0.5481214085096876,2020
+Sword & Shield,Sword & Shield,Common,Basic,Water,70,Suwama Chiaki,0.07,0.06765864847381481,2020
+Rebel Clash,Sword & Shield,Rare,Stage 1,Water,110,Mitsuhiro Arita,0.59,0.46373401623214017,2020
+Champion's Path,Sword & Shield,Common,Basic,Darkness,70,Naoki Saito,0.18,0.16551443847757338,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 1,Lightning,130,Hasuno,43.42,3.7936898184662815,2019
+Vivid Voltage,Sword & Shield,Uncommon,Basic,Water,110,Sanosuke Sakuma,0.27,0.23901690047049992,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 2,Darkness,160,Taira Akitsu,8.37,2.2375130962503307,2019
+Vivid Voltage,Sword & Shield,Common,Basic,Water,60,Hitoshi Ariga,0.14,0.1310282624064041,2020
+Darkness Ablaze,Sword & Shield,Uncommon,Basic,Water,90,MAHOU,0.03,0.0295588022415444,2020
+Champion's Path,Sword & Shield,Rare Holo V,"Basic, V",Metal,220,aky CG Works,0.95,0.6678293725756554,2020
+Sword & Shield,Sword & Shield,Common,Basic,Water,70,SATOSHI NAKAI,0.05,0.04879016416943201,2020
+Rebel Clash,Sword & Shield,Common,Basic,Water,30,kanahei,18.83,2.9871959425317045,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Water,60,ryoma uratsuka,0.25,0.22314355131420976,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 1,Water,120,Akira Komayama,0.3,0.26236426446749106,2020
+Champion's Path,Sword & Shield,Common,Basic,Colorless,50,0313,0.19,0.173953307123438,2020
+Rebel Clash,Sword & Shield,Rare Holo,Stage 1,Water,180,hatachu,3.31,1.4609379041156565,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Colorless,130,HYOGONOSUKE,11.62,2.5352828571130672,2019
+Sword & Shield,Sword & Shield,Uncommon,Stage 1,Water,110,Shibuzoh.,0.12,0.11332868530700317,2020
+Sword & Shield,Sword & Shield,Rare,Basic,Water,130,Kazuma Koda,0.77,0.5709795465857378,2020
+Rebel Clash,Sword & Shield,Common,Basic,Water,70,0313,0.34,0.29266961396282,2020
+Vivid Voltage,Sword & Shield,Rare Holo V,"Basic, V",Lightning,190,Saki Hayashiro,2.34,1.205970806988609,2020
+Champion's Path,Sword & Shield,Rare Holo,Stage 1,Colorless,110,Taira Akitsu,0.22,0.1988508587451652,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Lightning,60,Hitoshi Ariga,10.17,2.413231613081109,2019
+Darkness Ablaze,Sword & Shield,Uncommon,Stage 1,Water,100,Shigenori Negishi,0.31,0.27002713721306015,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Psychic,60,Misa Tsutsui,0.52,0.41871033485818504,2019
+Darkness Ablaze,Sword & Shield,Common,Basic,Water,70,Shin Nagasawa,0.27,0.23901690047049992,2020
+Rebel Clash,Sword & Shield,Uncommon,Stage 1,Water,120,Eri Yamaki,0.03,0.0295588022415444,2020
+Vivid Voltage,Sword & Shield,Rare Holo VMAX,VMAX,Lightning,310,aky CG Works,12.71,2.6181254935742233,2020
+Sword & Shield,Sword & Shield,Rare Holo V,"Basic, V",Water,210,Hasuno,3.0,1.3862943611198906,2020
+Rebel Clash,Sword & Shield,Rare Holo V,"Basic, V",Water,210,Ayaka Yoshida,3.47,1.4973884086254774,2020
+Sword & Shield,Sword & Shield,Rare Holo VMAX,VMAX,Water,320,5ban Graphics,6.32,1.9906103279732201,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 1,Fire,110,You Iribi,8.92,2.2945529212967815,2019
+Vivid Voltage,Sword & Shield,Common,Basic,Lightning,60,Sekio,0.22,0.1988508587451652,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 1,Water,140,Masakazu Fukuda,0.31,0.27002713721306015,2020
+Vivid Voltage,Sword & Shield,Rare Holo,Stage 1,Lightning,90,sui,0.35,0.30010459245033805,2020
+Sword & Shield,Sword & Shield,Uncommon,Basic,Water,90,Midori Harada,0.11,0.10436001532424277,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Colorless,60,You Iribi,11.46,2.522523513359307,2019
+Rebel Clash,Sword & Shield,Common,Basic,Water,60,Aya Kusube,0.1,0.09531017980432487,2020
+Rebel Clash,Sword & Shield,Uncommon,Stage 1,Water,90,MAHOU,0.32,0.2776317365982795,2020
+Sword & Shield,Sword & Shield,Uncommon,Basic,Water,110,Jumpei Akasaka,0.48,0.3920420877760237,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 1,Lightning,100,Mizue,0.5,0.4054651081081644,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Water,60,Sanosuke Sakuma,0.05,0.04879016416943201,2020
+SWSH Black Star Promos,Sword & Shield,Promo,"Basic, V",Fighting,210,PLANETA Tsuji,1.16,0.7701082216960736,2019
+SWSH Black Star Promos,Sword & Shield,Promo,"Basic, V",Darkness,220,5ban Graphics,2.66,1.297463147413275,2019
+Vivid Voltage,Sword & Shield,Rare Holo,Basic,Lightning,110,AKIRA EGAWA,0.5,0.4054651081081644,2020
+Darkness Ablaze,Sword & Shield,Uncommon,Stage 1,Water,80,Shibuzoh.,0.3,0.26236426446749106,2020
+Rebel Clash,Sword & Shield,Rare,Stage 2,Water,170,SATOSHI NAKAI,0.25,0.22314355131420976,2020
+Sword & Shield,Sword & Shield,Rare Holo V,"Basic, V",Water,210,PLANETA Igarashi,1.25,0.8109302162163288,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 2,Water,150,kodama,0.32,0.2776317365982795,2020
+Vivid Voltage,Sword & Shield,Rare Holo V,"Basic, V",Lightning,210,Ryuta Fuse,1.04,0.712949807856125,2020
+Sword & Shield,Sword & Shield,Common,Basic,Water,60,Megumi Mizutani,0.05,0.04879016416943201,2020
+Rebel Clash,Sword & Shield,Common,Basic,Water,80,Akira Komayama,0.3,0.26236426446749106,2020
+SWSH Black Star Promos,Sword & Shield,Promo,VMAX,Darkness,340,5ban Graphics,2.32,1.199964782928397,2019
+Rebel Clash,Sword & Shield,Rare,Stage 1,Water,140,Kouki Saitou,0.5,0.4054651081081644,2020
+Vivid Voltage,Sword & Shield,Amazing Rare,Basic,Lightning,110,Hideki Ishikawa,6.33,1.9919755158985601,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 1,Grass,80,Mina Nakai,0.94,0.6626879730752367,2019
+Rebel Clash,Sword & Shield,Rare Holo V,"Basic, V",Water,200,5ban Graphics,0.78,0.5766133643039938,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Lightning,60,Kyoko Umemoto,0.08,0.07696104113612832,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Water,70,Saya Tsuruta,0.04,0.039220713153281295,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 1,Water,130,Anesaki Dynamic,1.7,0.9932517730102834,2019
+Sword & Shield,Sword & Shield,Common,Basic,Water,70,Hitoshi Ariga,0.32,0.2776317365982795,2020
+Rebel Clash,Sword & Shield,Rare Holo VMAX,VMAX,Water,320,5ban Graphics,1.67,0.9820784724121581,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 1,Water,140,Masakazu Fukuda,0.34,0.29266961396282,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 1,Lightning,120,SATOSHI NAKAI,0.27,0.23901690047049992,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 1,Fire,130,nagimiso,1.28,0.8241754429663495,2019
+Rebel Clash,Sword & Shield,Rare,Basic,Water,110,Mitsuhiro Arita,0.47,0.3852624007906449,2020
+Sword & Shield,Sword & Shield,Uncommon,Stage 1,Water,90,Naoki Saito,0.87,0.6259384308664953,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Water,30,sui,0.05,0.04879016416943201,2020
+Sword & Shield,Sword & Shield,Uncommon,Stage 1,Water,90,Mizue,0.19,0.173953307123438,2020
+SWSH Black Star Promos,Sword & Shield,Promo,"Basic, V",Colorless,210,5ban Graphics,0.55,0.4382549309311553,2019
+Rebel Clash,Sword & Shield,Common,Basic,Water,60,Mina Nakai,0.28,0.2468600779315258,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Water,70,Tomokazu Komiya,0.38,0.32208349916911333,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Lightning,60,Saya Tsuruta,0.07,0.06765864847381481,2020
+Darkness Ablaze,Sword & Shield,Uncommon,Stage 1,Water,130,Masakazu Fukuda,0.09,0.08617769624105233,2020
+Vivid Voltage,Sword & Shield,Uncommon,Stage 1,Lightning,110,0313,0.06,0.058268908123975775,2020
+SWSH Black Star Promos,Sword & Shield,Promo,"Basic, V",Fire,220,5ban Graphics,12.41,2.5960006972935874,2019
+Rebel Clash,Sword & Shield,Rare,Stage 1,Water,120,Kouki Saitou,0.48,0.3920420877760237,2020
+Sword & Shield,Sword & Shield,Rare Holo,Stage 2,Water,160,Kagemaru Himeno,0.61,0.4762341789963716,2020
+Sword & Shield,Sword & Shield,Rare,Stage 2,Water,160,Akira Komayama,0.33,0.2851789422336624,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Water,130,Megumi Higuchi,7.52,2.1424163408412245,2019
+Vivid Voltage,Sword & Shield,Common,Basic,Lightning,40,Sumiyoshi Kizuki,0.14,0.1310282624064041,2020
+Rebel Clash,Sword & Shield,Rare Holo,Basic,Water,120,Kagemaru Himeno,0.64,0.49469624183610705,2020
+Darkness Ablaze,Sword & Shield,Rare Holo,Stage 1,Water,150,Hitoshi Ariga,1.35,0.8544153281560676,2020
+Rebel Clash,Sword & Shield,Rare Holo V,"Basic, V",Water,210,PLANETA Tsuji,1.29,0.8285518175661483,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 1,Water,150,Shin Nagasawa,0.87,0.6259384308664953,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 2,Psychic,110,Shibuzoh.,128.35,4.862521908632038,2019
+Vivid Voltage,Sword & Shield,Uncommon,Stage 1,Lightning,90,Shigenori Negishi,0.11,0.10436001532424277,2020
+Sword & Shield,Sword & Shield,Common,Basic,Water,80,Mina Nakai,0.07,0.06765864847381481,2020
+Rebel Clash,Sword & Shield,Common,Basic,Lightning,50,Hasegawa Saki,0.03,0.0295588022415444,2020
+Sword & Shield,Sword & Shield,Rare,Stage 1,Water,130,Hitoshi Ariga,0.19,0.173953307123438,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Lightning,40,sowsow,0.07,0.06765864847381481,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Lightning,60,sowsow,0.06,0.058268908123975775,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 2,Fighting,170,SATOSHI NAKAI,4.88,1.7715567619105355,2019
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 2,Fighting,160,Shigenori Negishi,1.25,0.8109302162163288,2019
+Darkness Ablaze,Sword & Shield,Uncommon,Stage 1,Lightning,90,Tomokazu Komiya,0.45,0.37156355643248307,2020
+Rebel Clash,Sword & Shield,Uncommon,Stage 1,Lightning,90,otumami,0.08,0.07696104113612832,2020
+Vivid Voltage,Sword & Shield,Uncommon,Stage 1,Lightning,90,Masakazu Fukuda,0.21,0.1906203596086497,2020
+Sword & Shield,Sword & Shield,Rare,Basic,Water,110,Shin Nagasawa,0.21,0.1906203596086497,2020
+SWSH Black Star Promos,Sword & Shield,Promo,"Basic, V",Psychic,200,PLANETA Igarashi,0.8,0.5877866649021191,2019
+Darkness Ablaze,Sword & Shield,Rare,Stage 2,Lightning,150,kodama,0.24,0.2151113796169455,2020
+Rebel Clash,Sword & Shield,Common,Basic,Lightning,90,Midori Harada,0.27,0.23901690047049992,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 2,Lightning,160,tetsuya koizumi,0.04,0.039220713153281295,2020
+Sword & Shield,Sword & Shield,Common,Basic,Water,50,Mina Nakai,0.13,0.12221763272424921,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Lightning,60,Yumi,0.06,0.058268908123975775,2020
+Sword & Shield,Sword & Shield,Rare Holo,Stage 1,Water,90,Kagemaru Himeno,0.41,0.3435897043900769,2020
+Rebel Clash,Sword & Shield,Rare,Stage 1,Lightning,140,tetsuya koizumi,0.6,0.4700036292457356,2020
+SWSH Black Star Promos,Sword & Shield,Promo,"Basic, V",Lightning,170,5ban Graphics,1.51,0.9202827531436926,2019
+Vivid Voltage,Sword & Shield,Rare Holo,Basic,Lightning,130,hatachu,0.43,0.3576744442718159,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 1,Lightning,110,nagimiso,0.35,0.30010459245033805,2020
+Vivid Voltage,Sword & Shield,Rare Holo,Basic,Lightning,100,so-taro,0.52,0.41871033485818504,2020
+SWSH Black Star Promos,Sword & Shield,Promo,"Basic, V",Darkness,220,5ban Graphics,1.02,0.7030975114131134,2019
+Sword & Shield,Sword & Shield,Common,Basic,Lightning,60,Ryuta Fuse,0.71,0.5364933705145685,2020
+Rebel Clash,Sword & Shield,Common,Basic,Lightning,60,Uta,0.33,0.2851789422336624,2020
+Champion's Path,Sword & Shield,Rare Ultra,"Basic, V",Water,210,aky CG Works,1.43,0.8878912573524571,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 1,Psychic,110,sui,10.65,2.4553061800117097,2019
+Darkness Ablaze,Sword & Shield,Rare Holo V,"Basic, V",Lightning,210,Ayaka Yoshida,0.85,0.6151856390902335,2020
+Vivid Voltage,Sword & Shield,Uncommon,Basic,Lightning,80,Kouki Saitou,0.24,0.2151113796169455,2020
+Sword & Shield,Sword & Shield,Rare,Stage 1,Lightning,130,Hasuno,0.26,0.23111172096338664,2020
+Rebel Clash,Sword & Shield,Uncommon,Stage 1,Lightning,90,ryoma uratsuka,0.29,0.2546422183735807,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Psychic,60,HYOGONOSUKE,0.39,0.3293037471426004,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 2,Darkness,160,Hasuno,1.54,0.9321640810304452,2019
+Champion's Path,Sword & Shield,Rare Ultra,"Basic, V",Psychic,210,PLANETA Mochizuki,4.8,1.7578579175523736,2020
+Rebel Clash,Sword & Shield,Rare Holo,Stage 2,Lightning,160,Hasuno,0.43,0.3576744442718159,2020
+Sword & Shield,Sword & Shield,Common,Basic,Lightning,70,Sumiyoshi Kizuki,0.07,0.06765864847381481,2020
+Champion's Path,Sword & Shield,Rare Ultra,"Basic, V",Psychic,190,5ban Graphics,1.89,1.0612565021243408,2020
+Darkness Ablaze,Sword & Shield,Rare Holo,Basic,Lightning,110,Hasuno,0.39,0.3293037471426004,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Metal,130,Kazuma Koda,1.85,1.0473189942805592,2019
+Sword & Shield,Sword & Shield,Common,Basic,Lightning,60,Yukiko Baba,0.05,0.04879016416943201,2020
+Rebel Clash,Sword & Shield,Common,Basic,Lightning,70,0313,0.26,0.23111172096338664,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 1,Psychic,100,Saya Tsuruta,0.65,0.5007752879124893,2020
+Vivid Voltage,Sword & Shield,Uncommon,Basic,Psychic,90,sowsow,0.14,0.1310282624064041,2020
+SWSH Black Star Promos,Sword & Shield,Promo,"Basic, V",Lightning,190,Ryota Murayama,5.62,1.890095369948917,2019
+Rebel Clash,Sword & Shield,Uncommon,Stage 1,Lightning,110,SATOSHI NAKAI,0.24,0.2151113796169455,2020
+Sword & Shield,Sword & Shield,Rare,Stage 1,Lightning,120,Naoyo Kimura,0.19,0.173953307123438,2020
+Champion's Path,Sword & Shield,Rare Ultra,"Basic, V",Fighting,210,PLANETA Igarashi,1.36,0.8586616190375187,2020
+Vivid Voltage,Sword & Shield,Rare,Basic,Psychic,30,Tomokazu Komiya,0.64,0.49469624183610705,2020
+Sword & Shield,Sword & Shield,Common,Basic,Lightning,50,Motofumi Fujiwara,0.05,0.04879016416943201,2020
+Rebel Clash,Sword & Shield,Uncommon,Stage 1,Lightning,90,Masakazu Fukuda,0.18,0.16551443847757338,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Lightning,70,Akira Komayama,0.27,0.23901690047049992,2020
+SWSH Black Star Promos,Sword & Shield,Promo,"Basic, V",Darkness,220,5ban Graphics,1.29,0.8285518175661483,2019
+Vivid Voltage,Sword & Shield,Common,Basic,Psychic,60,Miki Tanaka,0.26,0.23111172096338664,2020
+Rebel Clash,Sword & Shield,Rare Holo,Stage 2,Lightning,150,kawayoo,0.53,0.4252677354043441,2020
+Champion's Path,Sword & Shield,Rare Rainbow,VMAX,Fire,330,aky CG Works,233.74,5.458478518671978,2020
+Darkness Ablaze,Sword & Shield,Rare Holo,Stage 1,Lightning,120,Shin Nagasawa,0.47,0.3852624007906449,2020
+SWSH Black Star Promos,Sword & Shield,Promo,"Basic, V",Colorless,190,Kagemaru Himeno,6.13,1.9643112344262046,2019
+Sword & Shield,Sword & Shield,Uncommon,Stage 1,Lightning,100,otumami,0.36,0.3074846997479606,2020
+Darkness Ablaze,Sword & Shield,Rare Holo,Basic,Lightning,80,Shin Nagasawa,0.3,0.26236426446749106,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 2,Fire,170,NC Empire,580.92,6.366332981238679,2019
+Vivid Voltage,Sword & Shield,Rare,Stage 1,Psychic,90,kodama,0.38,0.32208349916911333,2020
+Rebel Clash,Sword & Shield,Rare Holo V,"Basic, V",Lightning,200,aky CG Works,1.36,0.8586616190375187,2020
+Champion's Path,Sword & Shield,Rare Rainbow,VMAX,Water,320,aky CG Works,6.6,2.028148247292285,2020
+Sword & Shield,Sword & Shield,Rare Holo V,"Basic, V",Lightning,200,PLANETA Tsuji,1.03,0.708035793053696,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Psychic,60,nagimiso,0.12,0.11332868530700317,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 1,Lightning,160,Misa Tsutsui,0.73,0.5481214085096876,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 1,Fighting,150,Eri Yamaki,3.9,1.589235205116581,2019
+Sword & Shield,Sword & Shield,Common,Basic,Lightning,70,Akira Komayama,0.41,0.3435897043900769,2020
+Champion's Path,Sword & Shield,Rare Rainbow,VMAX,Psychic,320,5ban Graphics,19.31,3.011113375592293,2020
+Rebel Clash,Sword & Shield,Common,Basic,Lightning,70,nagimiso,0.34,0.29266961396282,2020
+Darkness Ablaze,Sword & Shield,Rare Holo,Stage 1,Lightning,130,Hitoshi Ariga,2.0,1.0986122886681096,2020
+Vivid Voltage,Sword & Shield,Uncommon,Stage 1,Psychic,90,Kazuma Koda,0.1,0.09531017980432487,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Psychic,70,Motofumi Fujiwara,0.4,0.33647223662121295,2020
+Rebel Clash,Sword & Shield,Rare,Stage 1,Lightning,130,TOKIYA,0.41,0.3435897043900769,2020
+Sword & Shield,Sword & Shield,Common,Basic,Lightning,70,Saya Tsuruta,0.08,0.07696104113612832,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Colorless,130,Narumi Sato,229.56,5.440511132251212,2019
+Darkness Ablaze,Sword & Shield,Rare,Stage 1,Psychic,120,Lee HyunJung,0.34,0.29266961396282,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Colorless,130,kodama,44.12,3.8093256071898036,2019
+Rebel Clash,Sword & Shield,Rare Holo V,"Basic, V",Lightning,210,5ban Graphics,1.17,0.7747271675523681,2020
+Sword & Shield,Sword & Shield,Rare Holo,Stage 1,Lightning,130,Misa Tsutsui,0.44,0.36464311358790924,2020
+Vivid Voltage,Sword & Shield,Rare Holo,Stage 2,Psychic,150,Shigenori Negishi,0.33,0.2851789422336624,2020
+Darkness Ablaze,Sword & Shield,Rare Holo V,"Basic, V",Psychic,180,PLANETA Mochizuki,6.85,2.060513531794317,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Psychic,70,Asako Ito,0.47,0.3852624007906449,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Grass,60,Akira Komayama,1.13,0.7561219797213337,2019
+Rebel Clash,Sword & Shield,Rare Holo VMAX,VMAX,Lightning,320,5ban Graphics,4.8,1.7578579175523736,2020
+Champion's Path,Sword & Shield,Rare Secret,"Basic, V",Fire,220,5ban Graphics,261.05,5.568535325248176,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Psychic,80,otumami,0.08,0.07696104113612832,2020
+Sword & Shield,Sword & Shield,Rare Holo,Stage 1,Lightning,120,Kouki Saitou,0.36,0.3074846997479606,2020
+Rebel Clash,Sword & Shield,Rare Holo V,"Basic, V",Lightning,170,PLANETA Igarashi,1.15,0.7654678421395714,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 1,Psychic,130,SATOSHI NAKAI,0.2,0.18232155679395462,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Fire,60,Akira Komayama,1.83,1.0402767116551463,2019
+Vivid Voltage,Sword & Shield,Common,Basic,Psychic,60,sui,0.07,0.06765864847381481,2020
+Sword & Shield,Sword & Shield,Common,Basic,Lightning,80,Akira Komayama,0.07,0.06765864847381481,2020
+Darkness Ablaze,Sword & Shield,Uncommon,Basic,Psychic,90,Miki Tanaka,0.06,0.058268908123975775,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Stage 1,Water,110,so-taro,6.77,2.050270164379556,2019
+Sword & Shield,Sword & Shield,Rare,Basic,Lightning,90,Megumi Mizutani,0.81,0.5933268452777344,2020
+Rebel Clash,Sword & Shield,Uncommon,Basic,Lightning,80,Kouki Saitou,0.52,0.41871033485818504,2020
+Vivid Voltage,Sword & Shield,Uncommon,Stage 1,Psychic,100,Kagemaru Himeno,0.26,0.23111172096338664,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Water,60,Akira Komayama,5.96,1.9401794743463283,2019
+Rebel Clash,Sword & Shield,Common,Basic,Psychic,60,sowsow,0.97,0.6780335427498971,2020
+SWSH Black Star Promos,Sword & Shield,Promo,Basic,Lightning,60,The Pokémon Company Art Team,414.17,6.028688074905949,2019
+Vivid Voltage,Sword & Shield,Common,Basic,Psychic,60,Mizue,0.06,0.058268908123975775,2020
+Sword & Shield,Sword & Shield,Rare Holo V,"Basic, V",Lightning,170,5ban Graphics,1.14,0.76080582903376,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Psychic,60,Mizue,0.08,0.07696104113612832,2020
+Sword & Shield,Sword & Shield,Rare Holo VMAX,VMAX,Lightning,300,5ban Graphics,3.75,1.55814461804655,2020
+Darkness Ablaze,Sword & Shield,Uncommon,Stage 1,Psychic,80,sowsow,0.31,0.27002713721306015,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 1,Psychic,90,Naoyo Kimura,0.33,0.2851789422336624,2020
+Rebel Clash,Sword & Shield,Rare Holo,Stage 1,Psychic,110,miki kudo,1.62,0.9631743177730056,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 2,Psychic,140,Eri Yamaki,0.45,0.37156355643248307,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Psychic,70,Yuka Morii,0.64,0.49469624183610705,2020
+Rebel Clash,Sword & Shield,Common,Basic,Psychic,60,Naoyo Kimura,0.33,0.2851789422336624,2020
+Sword & Shield,Sword & Shield,Common,Basic,Psychic,70,Saya Tsuruta,0.28,0.2468600779315258,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Psychic,90,Ryuta Fuse,0.11,0.10436001532424277,2020
+Rebel Clash,Sword & Shield,Uncommon,Stage 1,Psychic,120,so-taro,0.4,0.33647223662121295,2020
+Sword & Shield,Sword & Shield,Rare,Stage 1,Psychic,100,You Iribi,1.51,0.9202827531436926,2020
+Vivid Voltage,Sword & Shield,Rare Holo,Basic,Psychic,130,Kagemaru Himeno,0.53,0.4252677354043441,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 1,Psychic,150,Anesaki Dynamic,0.06,0.058268908123975775,2020
+Sword & Shield,Sword & Shield,Common,Basic,Psychic,60,Taira Akitsu,0.15,0.13976194237515868,2020
+Vivid Voltage,Sword & Shield,Rare Holo,Basic,Psychic,90,Sanosuke Sakuma,0.18,0.16551443847757338,2020
+Rebel Clash,Sword & Shield,Common,Basic,Psychic,80,Mitsuhiro Arita,0.36,0.3074846997479606,2020
+Rebel Clash,Sword & Shield,Rare Holo,Stage 1,Psychic,100,Kagemaru Himeno,0.62,0.4824261492442927,2020
+Darkness Ablaze,Sword & Shield,Uncommon,Basic,Psychic,70,Shibuzoh.,0.57,0.4510756193602167,2020
+Sword & Shield,Sword & Shield,Uncommon,Stage 1,Psychic,70,HYOGONOSUKE,0.2,0.18232155679395462,2020
+Sword & Shield,Sword & Shield,Rare Holo,Stage 2,Psychic,110,Eri Yamaki,13.87,2.6993457604720636,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Psychic,50,Kouki Saitou,0.3,0.26236426446749106,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Psychic,60,Suwama Chiaki,0.14,0.1310282624064041,2020
+Rebel Clash,Sword & Shield,Rare,Basic,Psychic,110,Naoyo Kimura,0.48,0.3920420877760237,2020
+Sword & Shield,Sword & Shield,Rare Holo V,"Basic, V",Psychic,220,Ayaka Yoshida,1.29,0.8285518175661483,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 1,Psychic,90,Kagemaru Himeno,0.29,0.2546422183735807,2020
+Rebel Clash,Sword & Shield,Common,Basic,Psychic,80,Yuka Morii,0.3,0.26236426446749106,2020
+Sword & Shield,Sword & Shield,Common,Basic,Psychic,70,Asako Ito,0.34,0.29266961396282,2020
+Rebel Clash,Sword & Shield,Uncommon,Stage 1,Psychic,140,Hasuno,0.08,0.07696104113612832,2020
+Darkness Ablaze,Sword & Shield,Uncommon,Stage 1,Psychic,110,Misa Tsutsui,0.29,0.2546422183735807,2020
+Vivid Voltage,Sword & Shield,Amazing Rare,Basic,Psychic,110,Shin Nagasawa,5.49,1.8702625307159986,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Fighting,70,Mina Nakai,0.35,0.30010459245033805,2020
+Rebel Clash,Sword & Shield,Common,Basic,Psychic,60,Mina Nakai,0.34,0.29266961396282,2020
+Sword & Shield,Sword & Shield,Rare,Stage 1,Psychic,120,MAHOU,0.44,0.36464311358790924,2020
+Darkness Ablaze,Sword & Shield,Rare,Basic,Psychic,70,Ryota Murayama,0.39,0.3293037471426004,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 1,Fighting,120,otumami,0.35,0.30010459245033805,2020
+Rebel Clash,Sword & Shield,Uncommon,Stage 1,Psychic,80,kirisAki,0.14,0.1310282624064041,2020
+Sword & Shield,Sword & Shield,Common,Basic,Psychic,30,Saya Tsuruta,0.31,0.27002713721306015,2020
+Sword & Shield,Sword & Shield,Rare,Stage 1,Psychic,60,Shin Nagasawa,0.26,0.23111172096338664,2020
+Rebel Clash,Sword & Shield,Rare Holo,Stage 2,Psychic,150,Kagemaru Himeno,0.48,0.3920420877760237,2020
+Vivid Voltage,Sword & Shield,Uncommon,Basic,Fighting,70,Mizue,0.15,0.13976194237515868,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Psychic,30,Kouki Saitou,0.08,0.07696104113612832,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Fighting,70,Shibuzoh.,0.39,0.3293037471426004,2020
+Sword & Shield,Sword & Shield,Rare Holo V,"Basic, V",Psychic,180,5ban Graphics,1.08,0.7323678937132266,2020
+Darkness Ablaze,Sword & Shield,Uncommon,Stage 1,Psychic,60,kirisAki,0.05,0.04879016416943201,2020
+Rebel Clash,Sword & Shield,Common,Basic,Psychic,50,Mina Nakai,0.23,0.20701416938432615,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 1,Fighting,150,Hasegawa Saki,0.37,0.31481073984003355,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Fighting,50,Hideki Ishikawa,0.37,0.31481073984003355,2020
+Vivid Voltage,Sword & Shield,Uncommon,Basic,Fighting,90,Sanosuke Sakuma,0.09,0.08617769624105233,2020
+Rebel Clash,Sword & Shield,Rare,Stage 1,Psychic,110,Mizue,0.94,0.6626879730752367,2020
+Sword & Shield,Sword & Shield,Common,Basic,Fighting,60,Hasegawa Saki,0.21,0.1906203596086497,2020
+Darkness Ablaze,Sword & Shield,Uncommon,Stage 1,Fighting,90,Yukiko Baba,0.34,0.29266961396282,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Fighting,70,Sanosuke Sakuma,0.06,0.058268908123975775,2020
+Sword & Shield,Sword & Shield,Uncommon,Stage 1,Fighting,90,Kyoko Umemoto,0.56,0.44468582126144574,2020
+Rebel Clash,Sword & Shield,Uncommon,Basic,Psychic,100,Mizue,0.07,0.06765864847381481,2020
+Vivid Voltage,Sword & Shield,Rare Holo,Basic,Fighting,130,nagimiso,0.24,0.2151113796169455,2020
+Rebel Clash,Sword & Shield,Common,Basic,Psychic,60,Akira Komayama,0.36,0.3074846997479606,2020
+Rebel Clash,Sword & Shield,Uncommon,Stage 1,Psychic,90,Kouki Saitou,0.35,0.30010459245033805,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Fighting,70,ryoma uratsuka,0.09,0.08617769624105233,2020
+Darkness Ablaze,Sword & Shield,Uncommon,Stage 1,Fighting,80,Sekio,0.27,0.23901690047049992,2020
+Sword & Shield,Sword & Shield,Uncommon,Basic,Fighting,120,Shigenori Negishi,0.24,0.2151113796169455,2020
+Rebel Clash,Sword & Shield,Rare Holo,Stage 2,Psychic,150,Shin Nagasawa,0.61,0.4762341789963716,2020
+Darkness Ablaze,Sword & Shield,Rare Holo,Stage 2,Fighting,180,nagimiso,0.65,0.5007752879124893,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Fighting,70,Yuka Morii,0.36,0.3074846997479606,2020
+Rebel Clash,Sword & Shield,Rare Holo V,"Basic, V",Psychic,210,aky CG Works,1.69,0.9895411936137477,2020
+Sword & Shield,Sword & Shield,Uncommon,Basic,Fighting,120,Shigenori Negishi,1.09,0.7371640659767197,2020
+Vivid Voltage,Sword & Shield,Rare,Basic,Fighting,140,NC Empire,0.23,0.20701416938432615,2020
+Sword & Shield,Sword & Shield,Common,Basic,Fighting,100,Sekio,0.29,0.2546422183735807,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Fighting,60,Asako Ito,0.65,0.5007752879124893,2020
+Rebel Clash,Sword & Shield,Rare Holo VMAX,VMAX,Psychic,320,aky CG Works,4.37,1.6808279085207734,2020
+Vivid Voltage,Sword & Shield,Rare Holo,Basic,Fighting,150,Ryuta Fuse,0.37,0.31481073984003355,2020
+Darkness Ablaze,Sword & Shield,Uncommon,Stage 1,Fighting,80,Sumiyoshi Kizuki,0.05,0.04879016416943201,2020
+Rebel Clash,Sword & Shield,Common,Basic,Fighting,80,Akira Komayama,0.33,0.2851789422336624,2020
+Sword & Shield,Sword & Shield,Common,Basic,Fighting,90,sui,0.28,0.2468600779315258,2020
+Sword & Shield,Sword & Shield,Uncommon,Stage 1,Fighting,120,KEIICHIRO ITO,0.44,0.36464311358790924,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Fighting,70,Eri Yamaki,0.09,0.08617769624105233,2020
+Rebel Clash,Sword & Shield,Rare Holo,Stage 1,Fighting,130,You Iribi,0.72,0.5423242908253616,2020
+Sword & Shield,Sword & Shield,Rare Holo,Stage 2,Fighting,190,Satoshi Shirai,0.36,0.3074846997479606,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 2,Fighting,150,hatachu,0.54,0.43178241642553783,2020
+Darkness Ablaze,Sword & Shield,Uncommon,Basic,Fighting,90,Miki Tanaka,0.07,0.06765864847381481,2020
+Sword & Shield,Sword & Shield,Uncommon,Basic,Fighting,100,Yukiko Baba,0.19,0.173953307123438,2020
+Rebel Clash,Sword & Shield,Common,Basic,Fighting,80,Miki Tanaka,0.24,0.2151113796169455,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 1,Fighting,120,Anesaki Dynamic,0.38,0.32208349916911333,2020
+Rebel Clash,Sword & Shield,Common,Basic,Fighting,70,Yukiko Baba,0.05,0.04879016416943201,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Fighting,80,Naoyo Kimura,0.04,0.039220713153281295,2020
+Rebel Clash,Sword & Shield,Uncommon,Stage 1,Fighting,110,Suwama Chiaki,0.05,0.04879016416943201,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Fighting,100,Shin Nagasawa,0.04,0.039220713153281295,2020
+Sword & Shield,Sword & Shield,Common,Basic,Fighting,70,Uta,0.27,0.23901690047049992,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 1,Fighting,140,tetsuya koizumi,0.25,0.22314355131420976,2020
+Rebel Clash,Sword & Shield,Common,Basic,Fighting,70,Atsuko Nishida,0.26,0.23111172096338664,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 1,Fighting,150,KEIICHIRO ITO,0.41,0.3435897043900769,2020
+Sword & Shield,Sword & Shield,Common,Basic,Fighting,60,Miki Tanaka,0.21,0.1906203596086497,2020
+Sword & Shield,Sword & Shield,Rare,Stage 1,Fighting,120,Tomokazu Komiya,0.35,0.30010459245033805,2020
+Darkness Ablaze,Sword & Shield,Rare Holo V,"Basic, V",Fighting,230,Eske Yoshinob,0.76,0.5653138090500605,2020
+Rebel Clash,Sword & Shield,Rare,Stage 1,Fighting,140,kawayoo,0.47,0.3852624007906449,2020
+Vivid Voltage,Sword & Shield,Rare Holo V,"Basic, V",Fighting,220,5ban Graphics,0.66,0.5068176023684519,2020
+Sword & Shield,Sword & Shield,Rare Holo V,"Basic, V",Fighting,220,PLANETA Tsuji,1.09,0.7371640659767197,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 1,Fighting,130,0313,0.2,0.18232155679395462,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Fighting,110,SATOSHI NAKAI,0.05,0.04879016416943201,2020
+Sword & Shield,Sword & Shield,Common,Basic,Fighting,80,Shibuzoh.,0.19,0.173953307123438,2020
+Rebel Clash,Sword & Shield,Common,Basic,Fighting,70,Akira Komayama,0.09,0.08617769624105233,2020
+Vivid Voltage,Sword & Shield,Rare Holo VMAX,VMAX,Fighting,330,5ban Graphics,1.58,0.9477893989335261,2020
+Rebel Clash,Sword & Shield,Rare,Stage 1,Fighting,100,TOKIYA,0.54,0.43178241642553783,2020
+Rebel Clash,Sword & Shield,Common,Basic,Fighting,80,Saya Tsuruta,0.25,0.22314355131420976,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Fighting,80,Misa Tsutsui,0.05,0.04879016416943201,2020
+Sword & Shield,Sword & Shield,Rare,Stage 1,Fighting,150,Masakazu Fukuda,0.44,0.36464311358790924,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 1,Fighting,130,Ryota Murayama,0.27,0.23901690047049992,2020
+Rebel Clash,Sword & Shield,Rare,Stage 1,Fighting,120,Anesaki Dynamic,0.23,0.20701416938432615,2020
+Darkness Ablaze,Sword & Shield,Rare Holo V,"Basic, V",Darkness,210,5ban Graphics,1.28,0.8241754429663495,2020
+Sword & Shield,Sword & Shield,Common,Basic,Fighting,80,Misa Tsutsui,0.1,0.09531017980432487,2020
+Rebel Clash,Sword & Shield,Common,Basic,Fighting,70,Misa Tsutsui,0.08,0.07696104113612832,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 1,Fighting,130,Hitoshi Ariga,0.36,0.3074846997479606,2020
+Vivid Voltage,Sword & Shield,Amazing Rare,Basic,Fighting,110,aky CG Works,4.13,1.635105659182678,2020
+Sword & Shield,Sword & Shield,Common,Basic,Fighting,70,Hitoshi Ariga,0.11,0.10436001532424277,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Darkness,80,Ryota Murayama,0.06,0.058268908123975775,2020
+Rebel Clash,Sword & Shield,Uncommon,Stage 1,Fighting,100,Mitsuhiro Arita,0.1,0.09531017980432487,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Darkness,70,ryoma uratsuka,0.16,0.14842000511827327,2020
+Sword & Shield,Sword & Shield,Rare,Stage 1,Fighting,140,Kouki Saitou,0.3,0.26236426446749106,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 1,Darkness,140,Eri Yamaki,0.07,0.06765864847381481,2020
+Vivid Voltage,Sword & Shield,Uncommon,Stage 1,Darkness,110,Aya Kusube,0.06,0.058268908123975775,2020
+Rebel Clash,Sword & Shield,Rare Holo,Stage 2,Fighting,160,Shin Nagasawa,0.94,0.6626879730752367,2020
+Sword & Shield,Sword & Shield,Rare Holo,Stage 1,Fighting,130,nagimiso,0.12,0.11332868530700317,2020
+Rebel Clash,Sword & Shield,Rare Holo V,"Basic, V",Fighting,220,aky CG Works,0.86,0.6205764877251099,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Darkness,60,Kyoko Umemoto,0.1,0.09531017980432487,2020
+Vivid Voltage,Sword & Shield,Uncommon,Basic,Darkness,70,KEIICHIRO ITO,0.09,0.08617769624105233,2020
+Vivid Voltage,Sword & Shield,Rare Holo V,"Basic, V",Darkness,210,Eske Yoshinob,0.53,0.4252677354043441,2020
+Darkness Ablaze,Sword & Shield,Uncommon,Stage 1,Darkness,110,Shin Nagasawa,0.21,0.1906203596086497,2020
+Rebel Clash,Sword & Shield,Uncommon,Basic,Fighting,90,Misa Tsutsui,0.35,0.30010459245033805,2020
+Sword & Shield,Sword & Shield,Common,Basic,Fighting,60,Mina Nakai,0.08,0.07696104113612832,2020
+Rebel Clash,Sword & Shield,Rare Holo V,"Basic, V",Fighting,160,aky CG Works,0.99,0.688134638736401,2020
+Sword & Shield,Sword & Shield,Common,Basic,Fighting,80,Akira Komayama,0.12,0.11332868530700317,2020
+Rebel Clash,Sword & Shield,Rare Holo,Basic,Fighting,140,Kouki Saitou,0.31,0.27002713721306015,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Darkness,70,Pani Kobayashi,0.04,0.039220713153281295,2020
+Darkness Ablaze,Sword & Shield,Rare Holo V,"Basic, V",Darkness,180,PLANETA Mochizuki,0.83,0.6043159668533296,2020
+Rebel Clash,Sword & Shield,Common,Basic,Darkness,70,Kyoko Umemoto,0.08,0.07696104113612832,2020
+Vivid Voltage,Sword & Shield,Uncommon,Stage 1,Darkness,90,sowsow,0.26,0.23111172096338664,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 2,Darkness,150,Ryuta Fuse,0.12,0.11332868530700317,2020
+Rebel Clash,Sword & Shield,Rare Holo,Stage 1,Darkness,130,Mitsuhiro Arita,0.82,0.598836501088704,2020
+Darkness Ablaze,Sword & Shield,Rare Holo,Basic,Darkness,120,nagimiso,0.4,0.33647223662121295,2020
+Sword & Shield,Sword & Shield,Rare,Stage 1,Fighting,130,Shin Nagasawa,0.34,0.29266961396282,2020
+Rebel Clash,Sword & Shield,Common,Basic,Darkness,70,Shigenori Negishi,0.15,0.13976194237515868,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Darkness,70,Kyoko Umemoto,0.3,0.26236426446749106,2020
+Sword & Shield,Sword & Shield,Rare,Basic,Fighting,120,Shin Nagasawa,0.2,0.18232155679395462,2020
+Sword & Shield,Sword & Shield,Rare Holo V,"Basic, V",Fighting,220,5ban Graphics,0.87,0.6259384308664953,2020
+Rebel Clash,Sword & Shield,Uncommon,Stage 1,Darkness,120,sowsow,0.42,0.35065687161316933,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Darkness,70,sowsow,0.04,0.039220713153281295,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 1,Darkness,120,Hasuno,0.22,0.1988508587451652,2020
+Rebel Clash,Sword & Shield,Rare,Basic,Darkness,60,Tomokazu Komiya,1.41,0.8796267475025636,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Metal,70,Kouki Saitou,0.31,0.27002713721306015,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 1,Darkness,100,Hasuno,0.39,0.3293037471426004,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Darkness,60,Masakazu Fukuda,0.04,0.039220713153281295,2020
+Rebel Clash,Sword & Shield,Common,Basic,Darkness,60,HYOGONOSUKE,0.18,0.16551443847757338,2020
+Sword & Shield,Sword & Shield,Rare Holo VMAX,VMAX,Fighting,330,5ban Graphics,1.76,1.0152306797290587,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 1,Metal,120,Shin Nagasawa,0.07,0.06765864847381481,2020
+Rebel Clash,Sword & Shield,Rare,Stage 1,Darkness,120,AKIRA EGAWA,0.84,0.6097655716208943,2020
+Darkness Ablaze,Sword & Shield,Uncommon,Stage 1,Darkness,100,tetsuya koizumi,0.05,0.04879016416943201,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 1,Metal,120,Atsuko Nishida,0.27,0.23901690047049992,2020
+Sword & Shield,Sword & Shield,Common,Basic,Darkness,70,kirisAki,0.08,0.07696104113612832,2020
+Sword & Shield,Sword & Shield,Uncommon,Stage 1,Darkness,100,nagimiso,0.17,0.15700374880966475,2020
+Rebel Clash,Sword & Shield,Common,Basic,Darkness,60,Shibuzoh.,0.24,0.2151113796169455,2020
+Vivid Voltage,Sword & Shield,Rare Holo V,"Basic, V",Metal,250,Satoshi Shirai,0.91,0.6471032420585385,2020
+Darkness Ablaze,Sword & Shield,Rare,Stage 2,Darkness,160,kawayoo,0.18,0.16551443847757338,2020
+Rebel Clash,Sword & Shield,Rare,Stage 1,Darkness,120,kodama,0.14,0.1310282624064041,2020
+Darkness Ablaze,Sword & Shield,Rare Holo,Basic,Darkness,120,so-taro,0.32,0.2776317365982795,2020
+Vivid Voltage,Sword & Shield,Common,Basic,Metal,70,Aya Kusube,0.08,0.07696104113612832,2020
+Darkness Ablaze,Sword & Shield,Common,Basic,Darkness,70,Misa Tsutsui,0.11,0.10436001532424277,2020
+Vivid Voltage,Sword & Shield,Uncommon,Stage 1,Metal,100,Kazuma Koda,0.23,0.20701416938432615,2020
+Sword & Shield,Sword & Shield,Rare Holo,Stage 2,Darkness,160,Kouki Saitou,0.26,0.23111172096338664,2020
+Rebel Clash,Sword & Shield,Rare Holo V,"Basic, V",Darkness,210,Eske Yoshinob,1.02,0.7030975114131134,2020
+Vivid Voltage,Sword & Shield,Rare,Stage 2,Metal,170,kawayoo,0.18,0.16551443847757338,2020
+Rebel Clash,Sword & Shield,Rare Holo VMAX,VMAX,Darkness,310,5ban Graphics,2.29,1.1908875647772805,2020
